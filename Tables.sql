@@ -12,6 +12,7 @@ CREATE TABLE mantencion_programa_semana (
   semana varchar(5) COLLATE utf8_spanish_ci NOT NULL,
   orden_trabajo int(8) NOT NULL,
   actividad varchar(200),
+  fecha_ultima_modificacion DATETIME,
   PRIMARY KEY (id_semana)
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci AUTO_INCREMENT=1 ;
 
