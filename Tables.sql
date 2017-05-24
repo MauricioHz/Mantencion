@@ -16,3 +16,32 @@ CREATE TABLE mantencion_programa_semana (
   PRIMARY KEY (id_semana)
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci AUTO_INCREMENT=1 ;
 
+--
+-- Eliminar tabla calendario
+--
+DROP TABLE mantencion_calendario;
+
+--
+-- Eliminar tabla registro mantencion
+--
+DROP TABLE mantencion_orden_registro;
+
+-- Esquema INVENTARIO
+
+-- Tabla para alamacenar los nombres de distintas bodegas utilizadas en la empresa
+CREATE TABLE inventario_bodega
+(
+  id_bodega int(2),
+  bodega varchar(100),
+  descripcion varchar(200),
+  fecha_registro DATETIME,
+  PRIMARY KEY (id_bodega)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci AUTO_INCREMENT= 1 ;
+
+CREATE PROCEDURE spCrearBodega(in bodegaParam varchar(100), in descripcionParam varchar(200))
+BEGIN  
+  INSERT INTO inventario_bodega(bodega, descripcion, fecha_registro)
+  VALUES(bodegaParam, descripcionParam, now());
+  SET @count = ROW_COUNT();
+END
+
