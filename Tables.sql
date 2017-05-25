@@ -1,5 +1,38 @@
 /* Tablas modulo mantencion */
 
+-- crear programa de mantencion
+
+DROP PROCEDURE IF EXISTS `sp_ot_crear_programa_semana` ;
+
+CREATE PROCEDURE `sp_ot_crear_programa_semana`(
+  IN `var_id_equipo` INT(3), 
+  IN `var_id_plan` INT(3), 
+  IN `var_semana` VARCHAR(5),
+  IN `actividad` VARCHAR(200), 
+  IN `fecha_registro` DATETIME
+)
+INSERT INTO mantencion_programa_semana
+(
+    id_equipo, 
+    id_plan, 
+    anio, 
+    semana, 
+    orden_trabajo,
+    actividad,
+    fecha_registro
+)
+VALUES
+(
+    var_id_equipo, 
+    var_id_plan, 
+    YEAR(NOW()),
+    var_semana, 
+    0,
+    actividadParam,
+    NOW()
+);
+
+
 --
 -- Estructura de la tabla `mantencion_programa_semana`
 --
