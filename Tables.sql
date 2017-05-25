@@ -8,8 +8,7 @@ CREATE PROCEDURE `sp_ot_crear_programa_semana`(
   IN `var_id_equipo` INT(3), 
   IN `var_id_plan` INT(3), 
   IN `var_semana` VARCHAR(5),
-  IN `actividad` VARCHAR(200), 
-  IN `fecha_registro` DATETIME
+  IN `actividadParam` VARCHAR(200)
 )
 INSERT INTO mantencion_programa_semana
 (
@@ -31,6 +30,18 @@ VALUES
     actividadParam,
     NOW()
 );
+
+-- seleccionar registros
+
+DROP PROCEDURE IF EXISTS `sp_ot_buscar_equipo_semana`
+DELIMITER ;;
+CREATE PROCEDURE `sp_ot_buscar_equipo_semana`(IN `var_id_equipo` INT(3))
+SELECT id_semana, id_equipo, id_plan, anio, semana, orden_trabajo, actividad, fecha_registro
+FROM mantencion_programa_semana
+WHERE id_equipo = var_id_equipo
+ORDER BY id_semana ;;
+DELIMITER ;
+
 
 
 --
