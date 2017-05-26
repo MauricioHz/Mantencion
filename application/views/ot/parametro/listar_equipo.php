@@ -1,3 +1,7 @@
+<<style>
+.columna-equipo{color: green;}
+.columna-observacion{font-size: 12px}
+</style>
 <div class="row">
     <div class="col-lg-12">
         <div class="panel panel-default">
