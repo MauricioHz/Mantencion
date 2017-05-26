@@ -3,7 +3,7 @@
         <div class="panel-heading clearfix">
             <h4 class="panel-title pull-left">Crear plan</h4>
             <div class="btn-group pull-right">
-                <a href="<?php echo base_url('index.php/plan/listar'); ?>" class="btn btn-default btn-sm">Listar programas de mantención</a>
+                <a href="<?php echo base_url('index.php/plan/listar'); ?>" class="btn btn-primary btn-sm">Listar programas de mantención</a>
             </div>
         </div>
         <div class="panel-body">

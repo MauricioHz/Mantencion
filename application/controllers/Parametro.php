@@ -104,17 +104,14 @@ class Parametro extends MY_Controller {
 
     public function eliminar_area() {
         $data['success'] = FALSE;
-        if (count($_POST) > 0) {
-            $confirma = $this->input->post("confirma-eliminar");
-            $data['area'] = 'NO PASO!';
-            if ($confirma) {
+        if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 $id = $this->input->post("id-area");
                 $resultado = $this->parametro_model->eliminar_area_model($id);
                 if ($resultado) {
                     $data['success'] = TRUE;
                 }
-            }
-        } else {
+            }            
+        if ($_SERVER['REQUEST_METHOD'] == 'GET') {
             $id = $this->uri->segment(3);
             if (is_numeric($id)) {
                 $data_area = $this->parametro_model->buscar_area_model($id);
@@ -182,7 +179,7 @@ class Parametro extends MY_Controller {
     public function listar_subarea() {
         $id = $this->uri->segment(3);
         if ($_SERVER['REQUEST_METHOD'] == 'GET') {
-            if (is_numeric($id)) {
+            if (is_numeric($id)) {                
                 $data['subareas'] = $this->parametro_model->listar_subarea_model($id);
                 $data['contenido'] = 'ot/parametro/listar_subarea';
                 $this->load->view('ot/index', $data);
@@ -213,7 +210,6 @@ class Parametro extends MY_Controller {
             $objeto->subarea = trim($this->input->post('sub-area'));
             $objeto->id_subarea = $this->input->post('id-sub-area');
             $sp = $this->parametro_model->editar_subarea_model($objeto);
-            var_dump($sp);
             if ($sp) {
                 $data['success'] = TRUE;
                 if ($sp->mensaje == 'MODIFICADO_OK') {
@@ -233,7 +229,7 @@ class Parametro extends MY_Controller {
         $id = trim($this->uri->segment(3));
         if (is_numeric($id)) {
             if ($_SERVER['REQUEST_METHOD'] == 'GET') {
-                // buscar sub area y enviar a la vista.
+                $data['subarea'] = $this->parametro_model->buscar_subarea_model($id);
                 $data['id'] = $id;
                 $data['contenido'] = 'ot/parametro/eliminar_subarea';
                 $this->load->view('ot/index', $data);
@@ -241,8 +237,8 @@ class Parametro extends MY_Controller {
         }
         if (is_numeric($id)) {
             if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-                // eliminar.
-                $data['id'] = $id;
+                $id = $this->input->post('id-subarea');
+                
                 $data['contenido'] = 'ot/parametro/eliminar_subarea';
                 $this->load->view('ot/index', $data);
             }

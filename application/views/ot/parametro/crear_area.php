@@ -10,7 +10,7 @@
       <div class="panel-heading clearfix">
         <h4 class="panel-title pull-left">Ingresar área</h4>
         <div class="btn-group pull-right">
-          <a href="<?php echo base_url('parametro/listar_area'); ?>" class="btn btn-success btn-sm"><i class="fa fa-list"></i> Listar areas</a>
+          <a href="<?php echo base_url('index.php/parametro/listar_area'); ?>" class="btn btn-success btn-sm"><i class="fa fa-list"></i> Listar areas</a>
         </div>
       </div>
       <div class="panel-body">
