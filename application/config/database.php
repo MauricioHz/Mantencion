@@ -99,8 +99,8 @@ $db['default'] = array(
 $db['pdo'] = array(
     'dsn' => 'mysql:host=localhost; dbname=santamar_desarrollo; charset=utf8;',
     'hostname' => 'localhost',
-    'username' => 'santamar',
-    'password' => 'ikmhmc',
+    'username' => 'root',
+    'password' => '',
     'database' => 'santamar_desarrollo',
     'dbdriver' => 'pdo',
     'dbprefix' => '',
