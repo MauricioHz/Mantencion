@@ -8,6 +8,7 @@ input[type=checkbox],input[type=radio]{margin:1px 2px 0;margin-top:1px\9;line-he
 .table>tbody>tr>td,.table>tbody>tr>th,.table>tfoot>tr>td,.table>tfoot>tr>th,.table>thead>tr>td,.table>thead>tr>th{padding:4px;}
 .form-group{margin-bottom:0px;}
 </style>
+
 <div class="panel panel-default">
 	<div class="panel-heading clearfix">
 		<h4 class="panel-title pull-left">Crear programa de mantenimiento
@@ -41,11 +42,11 @@ input[type=checkbox],input[type=radio]{margin:1px 2px 0;margin-top:1px\9;line-he
 								<td class="col-lg-10 text-left"><?php echo $area; ?></td>
 							</tr>
 							<tr>
-								<td class="col-lg-2 text-left">Sub醨ea</td>
+								<td class="col-lg-2 text-left">Sub谩rea</td>
 								<td class="col-lg-10 text-left"><?php echo $subarea; ?></td>
 							</tr>	
 							<tr>
-								<td class="col-lg-2 text-left">Observaci髇</td>
+								<td class="col-lg-2 text-left">Observaci贸n</td>
 								<td class="col-lg-10 text-left"><?php echo $observacion; ?></td>
 							</tr>	
 							<tr>
@@ -65,8 +66,8 @@ input[type=checkbox],input[type=radio]{margin:1px 2px 0;margin-top:1px\9;line-he
 
 	<form class="form-horizontal" id="form-crear-programa" action="<?php echo base_url('index.php/mantenimiento/crear'); ?>" method="post">
 		<div class="panel-body">
-		<div class="bs-callout bs-callout-info" id="callout-type-dl-truncate"> <h4>Programa mantenci髇</h4> 
-		<p>A continuaci髇 ingrese el nombre de la actividad a realizar y seleccione las semanas que se requiere la mantenci髇 del equipo, se deben ingresar hasta 100 caracteres.</p> </div>			
+		<div class="bs-callout bs-callout-info" id="callout-type-dl-truncate"> <h4>Programa mantenci贸n</h4> 
+		<p>A continuaci贸n ingrese el nombre de la actividad a realizar y seleccione las semanas que se requiere la mantenci贸n del equipo, se puede ingresar hasta 100 caracteres.</p> </div>			
 			<div class="form-group">
 				<label class="col-md-2 control-label" for="plan">Actividad a
 					realizar</label>
@@ -260,12 +261,15 @@ input[type=checkbox],input[type=radio]{margin:1px 2px 0;margin-top:1px\9;line-he
 			<div class="form-group">
 				<div class="col-md-4">
 					<input type="hidden" name="id-plan" value="<?php echo $id_plan ?>">
-					<input type="hidden" name="id-equipo"
-						value="<?php echo $id_equipo ?>">
-					<button type="submit" class="btn btn-success"
-						id="btn-crear-programa">Crear plan de mantenimiento</button>
+					<input type="hidden" name="id-equipo" value="<?php echo $id_equipo ?>">
+					<button type="submit" class="btn btn-success" id="btn-crear-programa">Crear plan de mantenimiento</button>					
 				</div>
 			</div>
 		</div>
 	</form>
+	
+	<div class="panel-footer text-right"> 
+			<a href="<?php echo base_url('index.php/mantenimiento/agregar_actividad/' . $id_equipo); ?>" class="btn btn-warning btn-sm">Detalle actividades del Equipo</a>
+	</div>
+	 
 </div>

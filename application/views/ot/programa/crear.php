@@ -53,5 +53,6 @@ foreach ($programa_semanal as $value){
 <div class="row">
     <div class="col-lg-6">
         <a href="<?php echo base_url('index.php/parametro/listar_equipo'); ?>" class="btn btn-success btn-sm">Listar Equipo / Actividad</a>
+        <a href="<?php echo base_url('index.php/mantenimiento/agregar_actividad/' . $id_equipo); ?>" class="btn btn-success btn-sm">Detalle actividades del Equipo / Actividad</a>
     </div>
 </div>
