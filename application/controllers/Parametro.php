@@ -146,6 +146,7 @@ class Parametro extends MY_Controller {
                 $data['success'] = TRUE;
             } elseif ($sp->mensaje == 'SI_EXISTE') {
                 $data['existe_area'] = TRUE;
+				redirect('/parametro/listar_area', 'refresh');
             } else {
                 // Registrar error en log...			    
             }
@@ -179,7 +180,8 @@ class Parametro extends MY_Controller {
     public function listar_subarea() {
         $id = $this->uri->segment(3);
         if ($_SERVER['REQUEST_METHOD'] == 'GET') {
-            if (is_numeric($id)) {                
+            if (is_numeric($id)) {   
+				$data['id'] = $id;
                 $data['subareas'] = $this->parametro_model->listar_subarea_model($id);
                 $data['contenido'] = 'ot/parametro/listar_subarea';
                 $this->load->view('ot/index', $data);
@@ -321,6 +323,7 @@ class Parametro extends MY_Controller {
                 $data['area'] = $data_equipo->area;
                 $data['equipo'] = $data_equipo->equipo_actividad;
                 $data['observacion'] = $data_equipo->observacion;
+                $data['resultado_actualizar'] = TRUE;
                 $data['contenido'] = 'ot/parametro/confirma_equipo';
                 $this->load->view('ot/index', $data);
             } else {
