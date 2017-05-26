@@ -1,0 +1,26 @@
+ERROR - 2017-05-15 00:13:02 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-15 00:30:16 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-15 00:30:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-15 01:10:28 --> Severity: Notice --> Undefined variable: id /home/santamar/public_html/sistema/application/controllers/Mantenimiento.php 451
+ERROR - 2017-05-15 01:16:53 --> Severity: Notice --> Undefined variable: id /home/santamar/public_html/sistema/application/controllers/Mantenimiento.php 444
+ERROR - 2017-05-15 01:50:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-15 02:07:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-15 02:07:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-15 02:08:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-15 02:09:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-15 02:10:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-15 02:15:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-15 14:26:59 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-15 10:27:05 --> FERNANDO VERGARA ha iniciado sesion. ***
+ERROR - 2017-05-15 14:27:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-15 14:28:14 --> 404 Page Not Found: Assets/imagen
+ERROR - 2017-05-15 14:28:14 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-15 14:28:14 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-15 14:28:14 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-15 15:00:47 --> FERNANDO VERGARA ha iniciado sesion. ***
+ERROR - 2017-05-15 21:05:14 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-15 21:05:14 --> 404 Page Not Found: Assets/imagen
+ERROR - 2017-05-15 21:05:14 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-15 21:05:14 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-15 23:59:53 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-15 21:31:26 --> FERNANDO VERGARA ha iniciado sesion. ***

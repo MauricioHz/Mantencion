@@ -1,0 +1,84 @@
+ERROR - 2017-05-24 00:34:21 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-24 03:58:02 --> 404 Page Not Found: Mantenimiento/favicon.ico
+ERROR - 2017-05-24 04:06:41 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-24 04:06:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-24 04:08:24 --> 404 Page Not Found: Parametro/undefined9
+ERROR - 2017-05-24 04:10:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-24 04:16:01 --> 404 Page Not Found: Parametro/undefined9
+ERROR - 2017-05-24 13:25:29 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-24 13:25:30 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-24 13:37:19 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-24 09:37:55 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-05-24 12:21:55 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-05-24 14:42:20 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-05-24 18:50:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-24 22:01:29 --> 404 Page Not Found: Mantenimiento/favicon.ico
+ERROR - 2017-05-24 20:31:55 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-05-24 22:27:04 --> Severity: Notice --> Undefined variable: hoy C:\wamp\www\application\views\ot\orden\listar_semana.php 6
+ERROR - 2017-05-24 22:27:04 --> Severity: Error --> Call to a member function format() on a non-object C:\wamp\www\application\views\ot\orden\listar_semana.php 6
+ERROR - 2017-05-24 22:27:41 --> Severity: Notice --> Undefined variable: date C:\wamp\www\application\views\ot\orden\listar_semana.php 4
+ERROR - 2017-05-24 22:27:41 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 29
+ERROR - 2017-05-24 22:27:41 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 34
+ERROR - 2017-05-24 22:27:41 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 49
+ERROR - 2017-05-24 22:27:41 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 59
+ERROR - 2017-05-24 22:27:52 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 29
+ERROR - 2017-05-24 22:27:52 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 34
+ERROR - 2017-05-24 22:27:52 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 49
+ERROR - 2017-05-24 22:27:52 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 59
+ERROR - 2017-05-24 22:28:08 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 34
+ERROR - 2017-05-24 22:28:08 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 49
+ERROR - 2017-05-24 22:28:08 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 59
+ERROR - 2017-05-24 22:28:21 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 34
+ERROR - 2017-05-24 22:28:21 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 49
+ERROR - 2017-05-24 22:28:21 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 59
+ERROR - 2017-05-24 22:28:30 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 45
+ERROR - 2017-05-24 22:28:30 --> Severity: Notice --> Undefined variable: rangoSemanas C:\wamp\www\application\views\ot\orden\listar_semana.php 45
+ERROR - 2017-05-24 22:28:30 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 55
+ERROR - 2017-05-24 22:28:30 --> Severity: Notice --> Undefined variable: rangoSemanas C:\wamp\www\application\views\ot\orden\listar_semana.php 55
+ERROR - 2017-05-24 22:29:13 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 63
+ERROR - 2017-05-24 22:29:13 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 73
+ERROR - 2017-05-24 22:29:13 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 98
+ERROR - 2017-05-24 22:29:13 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 99
+ERROR - 2017-05-24 22:29:13 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 98
+ERROR - 2017-05-24 22:29:13 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 99
+ERROR - 2017-05-24 22:29:13 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 98
+ERROR - 2017-05-24 22:29:13 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 99
+ERROR - 2017-05-24 22:29:13 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 98
+ERROR - 2017-05-24 22:29:13 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 99
+ERROR - 2017-05-24 22:29:26 --> Severity: Notice --> Undefined variable: actual C:\wamp\www\application\views\ot\orden\listar_semana.php 73
+ERROR - 2017-05-24 22:29:26 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 98
+ERROR - 2017-05-24 22:29:26 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 99
+ERROR - 2017-05-24 22:29:26 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 98
+ERROR - 2017-05-24 22:29:26 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 99
+ERROR - 2017-05-24 22:29:26 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 98
+ERROR - 2017-05-24 22:29:26 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 99
+ERROR - 2017-05-24 22:29:26 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 98
+ERROR - 2017-05-24 22:29:26 --> Severity: Notice --> Undefined property: stdClass::$id_orden C:\wamp\www\application\views\ot\orden\listar_semana.php 99
+ERROR - 2017-05-24 22:41:51 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450560 bytes) C:\wamp\www\application\views\ot\orden\listar_semana.php 70
+ERROR - 2017-05-24 22:42:13 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450560 bytes) C:\wamp\www\application\views\ot\orden\listar_semana.php 70
+ERROR - 2017-05-24 22:42:34 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450560 bytes) C:\wamp\www\application\views\ot\orden\listar_semana.php 70
+ERROR - 2017-05-24 22:42:56 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450560 bytes) C:\wamp\www\application\views\ot\orden\listar_semana.php 70
+ERROR - 2017-05-24 22:43:22 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450560 bytes) C:\wamp\www\application\views\ot\orden\listar_semana.php 70
+ERROR - 2017-05-24 22:43:49 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450560 bytes) C:\wamp\www\application\views\ot\orden\listar_semana.php 70
+ERROR - 2017-05-24 22:45:38 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450560 bytes) C:\wamp\www\application\views\ot\orden\listar_semana.php 72
+ERROR - 2017-05-24 22:47:36 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450560 bytes) C:\wamp\www\application\views\ot\orden\listar_semana.php 72
+ERROR - 2017-05-24 22:51:19 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450560 bytes) C:\wamp\www\application\views\ot\orden\listar_semana.php 74
+ERROR - 2017-05-24 22:52:36 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450560 bytes) C:\wamp\www\application\views\ot\orden\listar_semana.php 75
+ERROR - 2017-05-24 22:59:49 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 89
+ERROR - 2017-05-24 22:59:49 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 89
+ERROR - 2017-05-24 22:59:49 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 89
+ERROR - 2017-05-24 22:59:49 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 89
+ERROR - 2017-05-24 22:59:49 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 89
+ERROR - 2017-05-24 22:59:49 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 89
+ERROR - 2017-05-24 22:59:49 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 89
+ERROR - 2017-05-24 22:59:49 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 89
+ERROR - 2017-05-24 22:59:49 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 89
+ERROR - 2017-05-24 23:00:30 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 90
+ERROR - 2017-05-24 23:00:30 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 90
+ERROR - 2017-05-24 23:00:30 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 90
+ERROR - 2017-05-24 23:00:30 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 90
+ERROR - 2017-05-24 23:00:30 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 90
+ERROR - 2017-05-24 23:00:30 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 90
+ERROR - 2017-05-24 23:00:30 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 90
+ERROR - 2017-05-24 23:00:30 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 90
+ERROR - 2017-05-24 23:00:30 --> Severity: Notice --> Array to string conversion C:\wamp\www\application\views\ot\orden\listar_semana.php 90

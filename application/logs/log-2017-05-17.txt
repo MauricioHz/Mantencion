@@ -1,0 +1,7 @@
+ERROR - 2017-05-17 02:44:06 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-17 03:14:42 --> Severity: Error --> Call to undefined method Mantencion_model::obtenerSemanaActual() /home/santamar/public_html/sistema/application/controllers/Mantenimiento.php 22
+ERROR - 2017-05-17 03:14:44 --> Severity: Error --> Call to undefined method Mantencion_model::obtenerSemanaActual() /home/santamar/public_html/sistema/application/controllers/Mantenimiento.php 22
+ERROR - 2017-05-17 13:46:42 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-17 21:25:36 --> FERNANDO VERGARA ha iniciado sesion. ***
+ERROR - 2017-05-17 21:27:10 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-05-17 22:21:54 --> FERNANDO VERGARA ha iniciado sesion. ***

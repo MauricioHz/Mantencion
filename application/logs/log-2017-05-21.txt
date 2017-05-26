@@ -1,0 +1,9 @@
+ERROR - 2017-05-21 13:46:52 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-21 13:46:53 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-21 17:35:48 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-21 13:35:49 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-05-21 17:36:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-21 17:41:36 --> Severity: Notice --> Trying to get property of non-object /home/santamar/public_html/sistema/application/controllers/Parametro.php 142
+ERROR - 2017-05-21 17:41:36 --> Severity: Notice --> Trying to get property of non-object /home/santamar/public_html/sistema/application/controllers/Parametro.php 144
+ERROR - 2017-05-21 17:41:36 --> Severity: Notice --> Undefined variable: area /home/santamar/public_html/sistema/application/views/ot/parametro/crear_subarea.php 27
+ERROR - 2017-05-21 21:20:27 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
