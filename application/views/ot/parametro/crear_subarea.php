@@ -1,8 +1,17 @@
 <?php if (isset($success) && $success == TRUE) { ?>
     <div class="row">
         <div class="col-lg-6 col-lg-offset-3">
-            <div class="alert alert-success alert-dismissible" role="alert"> <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button> <strong>¡Bien!</strong>  Area ingresada correctamente. </div>
-            <a href="<?php echo base_url() . 'index.php/parametro/listar_area'; ?>">Inicio</a>
+        <div class="panel panel-default">
+        	<div class="panel-heading clearfix">
+                    <h4 class="panel-title pull-left">Ingresar sub-área</h4>
+                    <div class="btn-group pull-right">
+                        <a href="<?php echo base_url('index.php/parametro/listar_area'); ?>" class="btn btn-success btn-sm"><i class="fa fa-list-ul"></i> Listar área</a>
+                    </div>
+            </div>
+            <div class="panel-body">
+            	<div class="alert alert-success" role="alert"><strong>¡Bien!</strong>  Area ingresada correctamente.</div>
+            </div> 
+        </div>    
         </div>
     </div>
 <?php } ?>

@@ -4,14 +4,14 @@
       <div class="panel-heading clearfix">
         <h4 class="panel-title pull-left">Editar área</h4>
         <div class="btn-group pull-right">
-          <a href="http://sistema.mobagricola.cl/index.php/parametro/listar_area" class="btn btn-success btn-sm"><i class="fa fa-list"></i> Listar areas</a>
+          <a href="<?php echo base_url('index.php/parametro/listar_area'); ?>" class="btn btn-success btn-sm"><i class="fa fa-list"></i> Listar areas</a>
         </div>
       </div>
       <div class="panel-body">
       <?php if(isset($success) && $success == TRUE){?>
- <div class="alert alert-info" role="alert"> <strong>¡Bien!</strong> Área actualiza correctamente.</div>        
+ 			<div class="alert alert-info" role="alert"> <strong>¡Bien!</strong> Área actualiza correctamente.</div>        
       <?php }else if(!$warning){ ?>     
-        <form class="form-horizontal" action="http://sistema.mobagricola.cl/index.php/parametro/editar_area" method="post">
+        <form class="form-horizontal" action="<?php echo base_url('index.php/parametro/editar_area'); ?>" method="post">
           <div class="form-group">
             <label class="col-md-4 control-label" for="area">Área</label>  
             <div class="col-md-6">

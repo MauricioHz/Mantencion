@@ -1,26 +1,28 @@
-<?php var_dump($equipo)?>
-
-<?php echo $equipo->nombre_plan;?>
-
+<style>
+.fa-thumb-tack{color: #086ABD;}
+</style>
 <div class="row">
 	<div class="col-lg-8 col-lg-offset-2">
 		<div class="bs-callout bs-callout-info" id="callout-pagination-label">
-			<p>Datos equipo</p>
+			<p>Datos equipo <span class="label label-success"><?php echo $equipo->equipo_actividad; ?></span></p>
 		</div>
-		<?php echo 'Agregar actividad de mantencion al equipo : EQ' . $id; ?>
+		<?php //echo 'Agregar actividad de mantencion al equipo : EQ' . $id; ?>
 		<div class="table-responsive">
 			<table class="table table-bordered">
-				<tbody>
-					<tr><td>Codigo equipo</td><td><?php echo 'EQ'.$id; ?></td></tr>					
-					<tr><td>Equipo</td><td><?php echo $equipo->equipo_actividad; ?></td></tr>
-					<tr><td>Plan de mantenciÛn</td><td><?php echo $equipo->nombre_plan; ?></td></tr>
+				<tbody>					
+					<tr><td>Codigo equipo</td><td><?php echo 'EQ'.$id . ' - ' . $equipo->equipo_actividad; ?></td></tr>
+					<tr><td>Plan de mantenci√≥n</td><td><?php echo $equipo->nombre_plan; ?></td></tr>
 					<tr><td>Area</td><td><?php echo $equipo->area; ?></td></tr>
-					<tr><td>Sub·rea</td><td><?php echo $equipo->subarea; ?></td></tr>
+					<tr><td>Sub√°rea</td><td><?php echo $equipo->subarea; ?></td></tr>
+					<tr><td>Observaci√≥n</td><td><em><?php echo $equipo->observacion; ?></em></td></tr>
+					<tr><td>Responsable</td><td><?php echo 'falta campo'; ?></td></tr>
+					<tr><td><a href="<?php echo base_url('index.php/parametro/editar_equipo/'. $id);?>" class="btn btn-warning btn-xs">Modificar datos del Equipo</a></td><td></td></tr>
 				</tbody>
 			</table>
 		</div>
 	</div>
 </div>
+
 
 <div class="row">
 	<div class="col-lg-8 col-lg-offset-2">
@@ -47,6 +49,12 @@
 					</tr>
 					<?php $i = $i + 1; } $aux = $actividad->actividad; ?>
 					<?php } ?>
+				<tr>
+				<td></td>
+				<td>
+				<a href="<?php echo base_url('index.php/mantenimiento/programa/'. $id);?>" class="btn btn-success btn-xs">Agregar actividad</a>
+				</td>
+				</tr>
 				</tbody>
 			</table>
 		</div>
@@ -62,7 +70,7 @@
 			<table class="table table-bordered">
 				<thead>
 					<tr>
-						<th><?php echo $i; ?></th>
+						<th>#</th>
 						<th>Actividad</th>
 						<th>Semana</th>
 						<th>OT</th>
@@ -75,7 +83,7 @@
 				$i = 1;
 				foreach ($actividades as $actividad){?>
 					<tr>
-						<th scope="row">1</th>
+						<th scope="row"><?php echo $i; ?></th>
 						<td><i class="fa fa-thumb-tack fa-fw"></i> <?php echo $actividad->actividad; ?></td>
 						<td><?php echo $actividad->semana; ?></td>
 						<td><?php echo $actividad->orden_trabajo; ?></td>

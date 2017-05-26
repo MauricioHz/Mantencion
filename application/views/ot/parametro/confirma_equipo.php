@@ -4,6 +4,7 @@
 	color: #056FCC;
 }
 </style>
+<?php if(isset($resultado_actualizar) && !$resultado_actualizar){?>
 <div class="row">
 	<div class="col-lg-8 col-lg-offset-2">
 		<div class="panel panel-default">
@@ -30,9 +31,12 @@
 					<tr>
 						<td>Area</td>
 						<td class="atributo"><?php echo $area; ?></td>
-				   <tr>
+					
+					
+					<tr>
 						<td>Sub-Area</td>
 						<td class="atributo"><?php echo $subarea; ?></td>
+					
 					
 					<tr>
 						<td>Plan</td>
@@ -55,3 +59,17 @@
 		</div>
 	</div>
 </div>
+<?php }?>
+
+<?php if($resultado_actualizar){?>
+    <div class="row">    
+        <div class="col-lg-6 col-lg-offset-3">
+            <div class="alert alert-success" role="alert"> Cambio realizado satisfactoriamente.</div>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <a href="<?php echo base_url('index.php/parametro/listar_equipo');?>" class="btn btn-primary btn-sm">Listar equipos</a>
+                </div>
+            </div>
+        </div>
+    </div>
+<?php }?>

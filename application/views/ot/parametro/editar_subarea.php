@@ -47,7 +47,7 @@
             <div class="alert alert-success" role="alert"> Cambio realizado satisfactoriamente.</div>
             <div class="panel panel-default">
                 <div class="panel-body">
-                    <a href="<?php echo base_url('index.php/parametro/listar_area');?>" class="btn btn-primary btn-sm">Listar subáreas</a>
+                    <a href="<?php echo base_url('index.php/parametro/listar_area');?>" class="btn btn-primary btn-sm">Listar áreas</a>
                 </div>
             </div>
         </div>

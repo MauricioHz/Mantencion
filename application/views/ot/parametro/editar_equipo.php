@@ -5,8 +5,9 @@
 			<div class="panel-heading clearfix">
 				<h4 class="panel-title pull-left">Editar equipo</h4>
 				<div class="btn-group pull-right">
-					<a
-						href="http://sistema.mobagricola.cl/index.php/parametro/listar_equipo"
+					<a href="<?php echo base_url('index.php/mantenimiento/agregar_actividad/'. $id_equipo);?>"
+						class="btn btn-default btn-sm">Detalle equipo</a>
+					<a href="<?php echo base_url('index.php/parametro/listar_equipo'); ?>"
 						class="btn btn-default btn-sm">Listar equipos o actividades</a>
 				</div>
 			</div>
