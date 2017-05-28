@@ -27,7 +27,7 @@ class Programa_model extends CI_Model {
     }
     */
 
-    public function ingresar_programa_model(Programa_model $objeto) {
+    public function crear_programa_model(Programa_model $objeto) {
         $sql = "CALL sp_ot_crear_programa_semana(:id_equipo, :id_plan, :semana, :actividad)";
         $statement = $this->db->conn_id->prepare($sql);
         $statement->bindParam(":id_equipo", $objeto->id_equipo, PDO::PARAM_INT, 3);

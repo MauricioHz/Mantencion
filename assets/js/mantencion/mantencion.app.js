@@ -424,15 +424,19 @@ $(document).ready(function () {
 
     });
 
-    var urlSubArea = 'subarea_json/';
-    $('#id-area').on('change', function () {
+    var urlSubArea = 'parametro/subarea_json/';
+    $('select#id-area.form-control').on('change', function () {
+        alert('test...');
+        console.info('Se ha activado el evento change de area');
         var idArea = this.value;
+        console.info('url: '+urlSubArea + idArea);
         $.ajax({
             type: "GET",
             url: urlSubArea + idArea,
             contentType: "application/json",
             dataType: "json",
             success: function (data) {
+                cosole.log(data);
                 $("#id-sub-area").empty();
                 if (data !== null) {
                     $.each(data, function () {

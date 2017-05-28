@@ -48,16 +48,16 @@
 							</select>
 						</div>
 					</div>
-					<div class="form-group">
-                       <label class="col-md-4 control-label" for="id-sub-area" style="color: #0081C8">Subárea</label>
-                       <div class="col-md-2">
-                          <select id="id-sub-area" name="id-sub-area" class="form-control">
-                          </select>
-                       </div>
-                       <div class="col-md-4">
-                           <span class="help-block" id="mensaje-subarea"></span>
-                       </div>
-                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label" for="id-sub-area" style="color: #0081C8">Subárea</label>
+                                        <div class="col-md-2">
+                                            <select id="id-sub-area" name="id-sub-area" class="form-control">
+                                            </select>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <span class="help-block" id="mensaje-subarea"></span>
+                                        </div>
+                                    </div>
 					<hr>
 					<div class="form-group">
 						<label class="col-md-4 control-label" for="id-tipo">Seleccione</label>

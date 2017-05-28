@@ -162,7 +162,7 @@ class Mantenimiento extends MY_Controller {
                 $objeto->id_plan = $id_plan;
                 $objeto->semana = $semana;
                 $objeto->actividad = $actividad;
-                $resultado = $this->programa_model->ingresar_programa_model($objeto);
+                $resultado = $this->programa_model->crear_programa_model($objeto);
                 if ($resultado) {
                     $data['resultado_crear'] = TRUE;
                     $data['resultado_editar'] = FALSE;
@@ -171,6 +171,7 @@ class Mantenimiento extends MY_Controller {
             $_SESSION['submit'] = 0;
         }
         // Retorno de datos
+        $data['id_equipo'] = $id;
         $data['equipo'] = $this->parametro_model->buscar_equipo_model($id);
         $data['programa_semanal'] = $this->programa_model->buscar_plan_equipo_model($id);
         $data['contenido'] = 'ot/programa/crear';
