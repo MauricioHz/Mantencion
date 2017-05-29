@@ -8,10 +8,7 @@ class Mantencion_model extends CI_Model {
 	public $id_orden;
 	public $id_equipo;
 	public $id_area;
-	public $sector;
-	public $elemento;
-	public $pabellon;
-	public $atril;
+	public $id_subarea;
 	public $fecha_inicio;
 	public $fecha_termino;
 	public $tipo_mantencion;
@@ -21,12 +18,16 @@ class Mantencion_model extends CI_Model {
 	public $supervisor;
 	public $usuario_registro;
 	public $fecha_registro;
+	public $estado_aprobacion;
+	public $semana;
+	public $ciclo;
 
 	//Repuestos
 	public $id_repuesto;
 	public $cantidad;
 	public $repuesto;
 	public $semana;
+	
 
 	public function __construct() {
 		parent::__construct();
@@ -35,26 +36,41 @@ class Mantencion_model extends CI_Model {
 
 	// Ingresar datos de la orden de trabajo
 	public function ingresar_orden_trabajo_model(Mantencion_model $objeto) {
-		$sql = "CALL sp_ot_crear_orden_trabajo(:id_equipo, :id_area, :sector, :elemento, :pabellon, :atril, :fecha_inicio,
-		          :fecha_termino, :tipo_mantencion, :descripcion, :observacion, :tecnico, :supervisor, :semana)";
+		$sql = "CALL sp_ot_crear_orden_trabajo(:id_orden, 
+							:id_equipo, 
+							:id_area, 
+							:id_subarea, 
+							:fecha_inicio, 
+							:fecha_termino, 
+							:tipo_mantencion, 
+							:descripcion, 
+							:observacion, 
+							:tecnico, 
+							:supervisor, 
+							:usuario_registro, 
+							:fecha_registro, 
+							:estado_aprobacion, 
+							:semana, 
+							:ciclo, 
+							)";		
 		$statement = $this->db->conn_id->prepare($sql);
-		$statement->bindParam(":id_equipo", $objeto->id_equipo, PDO::PARAM_INT, 3);
-		$statement->bindParam(":id_area" , $objeto->id_area, PDO::PARAM_INT, 3);
-		$statement->bindParam(":sector" , $objeto->sector, PDO::PARAM_STR, 30);
-		$statement->bindParam(":elemento" , $objeto->elemento, PDO::PARAM_STR, 30);
-		$statement->bindParam(":pabellon" , $objeto->pabellon, PDO::PARAM_STR, 30);
-		$statement->bindParam(":atril" , $objeto->atril, PDO::PARAM_STR, 30);
-		$statement->bindParam(":fecha_inicio" , $objeto->fecha_inicio, PDO::PARAM_STR, 50);
-		$statement->bindParam(":fecha_termino" , $objeto->fecha_termino, PDO::PARAM_STR, 50);
-		$statement->bindParam(":tipo_mantencion" , $objeto->tipo_mantencion, PDO::PARAM_STR, 10);
-		$statement->bindParam(":descripcion" , $objeto->descripcion, PDO::PARAM_STR, 400);
-		$statement->bindParam(":observacion" , $objeto->observacion, PDO::PARAM_STR, 400);
-		$statement->bindParam(":tecnico" , $objeto->tecnico, PDO::PARAM_STR, 50);
-		$statement->bindParam(":supervisor" , $objeto->supervisor, PDO::PARAM_STR, 50);
-		$statement->bindParam(":semana" , $objeto->semana, PDO::PARAM_STR, 5);
+		$statement->bindParam(":id_orden",$objeto->id_orden, PDO::PARAM_INT, 7);				
+		$statement->bindParam(":id_equipo",$objeto->id_equipo, PDO::PARAM_INT, 3);				
+		$statement->bindParam(":id_area",$objeto->id_area, PDO::PARAM_INT, 3);				
+		$statement->bindParam(":id_subarea",$objeto->id_subarea, PDO::PARAM_INT, 3);				
+		$statement->bindParam(":fecha_inicio",$objeto->fecha_inicio,PDO::PARAM_STR, 50);				
+		$statement->bindParam(":fecha_termino",$objeto->fecha_termino,PDO::PARAM_STR, 50);				
+		$statement->bindParam(":tipo_mantencion",$objeto->tipo_mantencion,PDO::PARAM_STR, 10);				
+		$statement->bindParam(":descripcion",$objeto->descripcion, PDO::PARAM_STR, 400);				
+		$statement->bindParam(":observacion",$objeto->observacion, PDO::PARAM_STR, 400);				
+		$statement->bindParam(":tecnico",$objeto->tecnico, PDO::PARAM_INT, 3);				
+		$statement->bindParam(":supervisor",$objeto->supervisor, PDO::PARAM_INT, 3);				
+		$statement->bindParam(":usuario_registro",$objeto->usuario_registro, PDO::PARAM_INT, 3);				
+		$statement->bindParam(":fecha_registro",$objeto->fecha_registro,PDO::PARAM_STR, 50);				
+		$statement->bindParam(":estado_aprobacion",$objeto->estado_aprobacion, PDO::PARAM_INT, 1);				
+		$statement->bindParam(":semana",$objeto->semana,PDO::PARAM_STR, 10);				
+		$statement->bindParam(":ciclo",$objeto->ciclo, PDO::PARAM_INT, 1);			
 		if ($statement->execute()) {
-			//$res = $statement->fetch(PDO::FETCH_ASSOC);
-			//return $res["@id"];
 			return $statement->fetch(PDO::FETCH_OBJ);
 		} else {
 			return FALSE;
