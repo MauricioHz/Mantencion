@@ -14,6 +14,7 @@ $(document).ready(function () {
     $('#documentos-normativa').DataTable();
 
     function llenar_tabla(data) {
+        console.log(data);
         $('#tabla-equipos').dataTable({
             "bAutoWidth": false,
             "oLanguage": {
@@ -38,7 +39,8 @@ $(document).ready(function () {
                 {
                     "data": "equipo_actividad",
                     "width": "30%",
-                    "targets": 1
+                    "targets": 1,
+                    "sClass": "equipo"
                 },
                 {
                     "data": "observacion",
@@ -59,18 +61,12 @@ $(document).ready(function () {
                 },
                 {
                     "data": function (row) {
-                        var link = "";
-                        if (row.programa >= 1) {
-                            link = '<li><a href="' + baseUrl + '/plan/detalle/' + row.id_equipo + '">Detalle programa</a></li>';
-                        } else {
-                            link = '<li><a href="' + baseUrl + '/mantenimiento/programa/' + row.id_equipo + '">Crear plan de Mantención</a></li>';
-                        }
                         return '<div class="btn-group">' +
                                 '<button type="button" class="btn btn-default btn-xs">Acciones</button>' +
                                 '<button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> ' +
                                 '<span class="caret"></span> <span class="sr-only">Toggle Dropdown</span> </button>' +
                                 '<ul class="dropdown-menu">' +
-                                link +
+                                '<li><a href="' + baseUrl + '/mantenimiento/correctivo/' + row.id_equipo + '">Mantención Correctiva</a></li>' +
                                 '<li><a href="' + baseUrl + '/mantenimiento/agregar_actividad/' + row.id_equipo + '">Agregar actividad</a></li>' +
                                 '<li><a href="' + baseUrl + '/parametro/editar_equipo/' + row.id_equipo + '">Modificar</a></li>' +
                                 '<li><a href="' + baseUrl + '/parametro/eliminar_equipo/' + row.id_equipo + '">Eliminar</a></li>' +

@@ -238,3 +238,6 @@ ERROR - 2017-05-28 06:39:23 --> Severity: Notice --> Undefined variable: respons
 ERROR - 2017-05-28 06:39:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 78
 ERROR - 2017-05-28 06:39:23 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 93
 ERROR - 2017-05-28 06:39:24 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 99
+ERROR - 2017-05-28 17:51:10 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-05-28 23:51:10 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-28 21:42:52 --> MAURICIO HERNANDEZ ha iniciado sesion. ***

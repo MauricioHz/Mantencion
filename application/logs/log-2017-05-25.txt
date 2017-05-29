@@ -31,3 +31,4 @@ ERROR - 2017-05-25 21:42:33 --> Severity: Notice --> Undefined variable: i C:\wa
 ERROR - 2017-05-25 21:59:18 --> Severity: Notice --> Undefined variable: nombre_plan C:\wamp\www\application\views\ot\parametro\agregar_actividad.php 3
 ERROR - 2017-05-25 21:59:34 --> Severity: Notice --> Undefined variable: object C:\wamp\www\application\views\ot\parametro\agregar_actividad.php 3
 ERROR - 2017-05-25 21:59:34 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\parametro\agregar_actividad.php 3
+ERROR - 2017-05-25 21:38:08 --> MAURICIO HERNANDEZ ha iniciado sesion. ***

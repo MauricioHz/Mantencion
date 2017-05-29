@@ -66,7 +66,6 @@
                                                                         <option value="PREVENTIVA">PREDICTIVA</option>
                                                                     </select>    
                                                                 </div>
-
                                                             </div>
                                                         </div>    
                                                         <div class="panel-body">    
@@ -171,8 +170,7 @@
                                             <input type="hidden" name="id_equipo"
                                                    value="<?php echo $id_equipo; ?>"> <input type="hidden"
                                                    name="id_area" value="<?php echo $id_area; ?>">
-                                            <button type="submit" class="btn btn-success">Enviar datos
-                                                orden de trabajo</button>
+                                            <button type="submit" class="btn btn-success">Enviar datos orden de trabajo</button>
                                         </div>
                                     </div>
                                 </div>

@@ -1,6 +1,7 @@
-<<style>
+<style>
 .columna-equipo{color: green;}
 .columna-observacion{font-size: 12px}
+td.equipo{color: blue;font-weight: normal;}
 </style>
 <div class="row">
     <div class="col-lg-12">

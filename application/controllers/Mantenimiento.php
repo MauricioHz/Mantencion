@@ -55,6 +55,21 @@ class Mantenimiento extends MY_Controller {
         $this->load->view('ot/index', $data);
     }
 
+    public function correctivo() {
+        //var_dump($_POST);
+        if ($this->input->post('ciclo') == 1) {
+            
+        }
+        $id = $this->uri->segment(3);
+        
+        $equipo = $this->parametro_model->buscar_equipo_model($id);
+        $data = array(
+            'equipo' => $equipo,
+            'contenido' => 'ot/orden/correctivo'
+        );
+        $this->load->view('ot/index', $data);
+    }
+
     public function crear_orden() {
         $data['existe_area'] = FALSE;
         $data['valida_proceso_repuestos'] = FALSE;
@@ -531,16 +546,16 @@ class Mantenimiento extends MY_Controller {
         $date = new DateTime($date);
         return $date->format("W");
     }
-    
-    public function agregar_actividad(){
-    	$id = $this->uri->segment(3);
-    	if(is_numeric($id)){
-    		$data['equipo'] = $this->parametro_model->buscar_equipo_model($id);
-    		$data['id'] = $id;
-    		$data['actividades'] = $this->programa_model->buscar_plan_equipo_model($id);
-	        $data['contenido'] = 'ot/parametro/agregar_actividad';
-	        $this->load->view('ot/index', $data);    		
-    	}
+
+    public function agregar_actividad() {
+        $id = $this->uri->segment(3);
+        if (is_numeric($id)) {
+            $data['equipo'] = $this->parametro_model->buscar_equipo_model($id);
+            $data['id'] = $id;
+            $data['actividades'] = $this->programa_model->buscar_plan_equipo_model($id);
+            $data['contenido'] = 'ot/parametro/agregar_actividad';
+            $this->load->view('ot/index', $data);
+        }
     }
 
 }

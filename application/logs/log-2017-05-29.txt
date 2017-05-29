@@ -1,0 +1,200 @@
+ERROR - 2017-05-29 00:14:14 --> 404 Page Not Found: Parametro/assets
+ERROR - 2017-05-29 00:14:14 --> 404 Page Not Found: Parametro/assets
+ERROR - 2017-05-29 00:14:25 --> 404 Page Not Found: Parametro/assets
+ERROR - 2017-05-29 00:14:35 --> 404 Page Not Found: Parametro/assets
+ERROR - 2017-05-29 00:18:48 --> 404 Page Not Found: Mantenimiento/correctivo
+ERROR - 2017-05-29 00:36:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-29 00:36:58 --> Severity: Notice --> Undefined variable: no_encontrado C:\wamp\www\application\views\ot\orden\asistente.php 2
+ERROR - 2017-05-29 00:36:58 --> Severity: Notice --> Undefined variable: equipo_actividad C:\wamp\www\application\views\ot\orden\asistente.php 51
+ERROR - 2017-05-29 00:36:58 --> Severity: Notice --> Undefined variable: equipo_actividad C:\wamp\www\application\views\ot\orden\asistente.php 75
+ERROR - 2017-05-29 00:36:58 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\asistente.php 148
+ERROR - 2017-05-29 00:36:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\asistente.php 148
+ERROR - 2017-05-29 00:36:58 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\asistente.php 158
+ERROR - 2017-05-29 00:36:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\asistente.php 158
+ERROR - 2017-05-29 00:36:58 --> Severity: Notice --> Undefined variable: semana C:\wamp\www\application\views\ot\orden\asistente.php 170
+ERROR - 2017-05-29 00:36:58 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\orden\asistente.php 172
+ERROR - 2017-05-29 00:36:58 --> Severity: Notice --> Undefined variable: id_area C:\wamp\www\application\views\ot\orden\asistente.php 173
+ERROR - 2017-05-29 00:41:28 --> Severity: Notice --> Undefined variable: equipo_actividad C:\wamp\www\application\views\ot\orden\correctivo.php 14
+ERROR - 2017-05-29 00:43:39 --> Severity: Notice --> Undefined variable: id C:\wamp\www\application\views\ot\orden\correctivo.php 13
+ERROR - 2017-05-29 00:43:58 --> Severity: Notice --> Undefined variable: equipo_actividad C:\wamp\www\application\views\ot\orden\correctivo.php 9
+ERROR - 2017-05-29 01:58:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-29 01:59:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-29 02:01:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-29 02:20:17 --> Severity: Error --> Call to undefined function url_base() C:\wamp\www\application\views\ot\orden\correctivo.php 103
+ERROR - 2017-05-29 02:29:15 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 76
+ERROR - 2017-05-29 02:29:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 76
+ERROR - 2017-05-29 02:29:15 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 86
+ERROR - 2017-05-29 02:29:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 86
+ERROR - 2017-05-29 02:29:45 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 76
+ERROR - 2017-05-29 02:29:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 76
+ERROR - 2017-05-29 02:29:45 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 86
+ERROR - 2017-05-29 02:29:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 86
+ERROR - 2017-05-29 02:30:36 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 74
+ERROR - 2017-05-29 02:30:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 74
+ERROR - 2017-05-29 02:30:36 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 84
+ERROR - 2017-05-29 02:30:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 84
+ERROR - 2017-05-29 02:31:11 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 74
+ERROR - 2017-05-29 02:31:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 74
+ERROR - 2017-05-29 02:31:11 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 84
+ERROR - 2017-05-29 02:31:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 84
+ERROR - 2017-05-29 02:31:26 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 74
+ERROR - 2017-05-29 02:31:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 74
+ERROR - 2017-05-29 02:31:26 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 84
+ERROR - 2017-05-29 02:31:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 84
+ERROR - 2017-05-29 02:33:18 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 97
+ERROR - 2017-05-29 02:33:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 97
+ERROR - 2017-05-29 02:33:18 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 107
+ERROR - 2017-05-29 02:33:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 107
+ERROR - 2017-05-29 02:36:09 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 02:36:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 02:36:09 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 02:36:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 02:37:56 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 02:37:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 02:37:56 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 122
+ERROR - 2017-05-29 02:37:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 122
+ERROR - 2017-05-29 02:38:27 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 02:38:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 02:38:27 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 122
+ERROR - 2017-05-29 02:38:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 122
+ERROR - 2017-05-29 02:42:20 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 02:42:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 02:42:20 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 122
+ERROR - 2017-05-29 02:42:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 122
+ERROR - 2017-05-29 02:42:27 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 02:42:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 02:42:27 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 122
+ERROR - 2017-05-29 02:42:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 122
+ERROR - 2017-05-29 02:43:11 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 116
+ERROR - 2017-05-29 02:43:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 116
+ERROR - 2017-05-29 02:43:11 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 126
+ERROR - 2017-05-29 02:43:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 126
+ERROR - 2017-05-29 02:43:56 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 116
+ERROR - 2017-05-29 02:43:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 116
+ERROR - 2017-05-29 02:43:56 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 126
+ERROR - 2017-05-29 02:43:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 126
+ERROR - 2017-05-29 02:44:17 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 02:44:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 02:44:17 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 122
+ERROR - 2017-05-29 02:44:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 122
+ERROR - 2017-05-29 02:57:08 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 109
+ERROR - 2017-05-29 02:57:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 109
+ERROR - 2017-05-29 02:57:08 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 119
+ERROR - 2017-05-29 02:57:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 119
+ERROR - 2017-05-29 02:58:20 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 121
+ERROR - 2017-05-29 02:58:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 121
+ERROR - 2017-05-29 02:58:20 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 131
+ERROR - 2017-05-29 02:58:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 131
+ERROR - 2017-05-29 02:59:28 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 121
+ERROR - 2017-05-29 02:59:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 121
+ERROR - 2017-05-29 02:59:28 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 131
+ERROR - 2017-05-29 02:59:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 131
+ERROR - 2017-05-29 02:59:40 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 121
+ERROR - 2017-05-29 02:59:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 121
+ERROR - 2017-05-29 02:59:40 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 131
+ERROR - 2017-05-29 02:59:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 131
+ERROR - 2017-05-29 02:59:53 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 121
+ERROR - 2017-05-29 02:59:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 121
+ERROR - 2017-05-29 02:59:53 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 131
+ERROR - 2017-05-29 02:59:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 131
+ERROR - 2017-05-29 03:00:29 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 121
+ERROR - 2017-05-29 03:00:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 121
+ERROR - 2017-05-29 03:00:29 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 131
+ERROR - 2017-05-29 03:00:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 131
+ERROR - 2017-05-29 03:01:03 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 121
+ERROR - 2017-05-29 03:01:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 121
+ERROR - 2017-05-29 03:01:03 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 131
+ERROR - 2017-05-29 03:01:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 131
+ERROR - 2017-05-29 03:04:59 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 119
+ERROR - 2017-05-29 03:04:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 119
+ERROR - 2017-05-29 03:04:59 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 129
+ERROR - 2017-05-29 03:04:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 129
+ERROR - 2017-05-29 03:06:05 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 127
+ERROR - 2017-05-29 03:06:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 127
+ERROR - 2017-05-29 03:06:05 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 137
+ERROR - 2017-05-29 03:06:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 137
+ERROR - 2017-05-29 03:07:31 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 151
+ERROR - 2017-05-29 03:07:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 151
+ERROR - 2017-05-29 03:07:31 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 161
+ERROR - 2017-05-29 03:07:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 161
+ERROR - 2017-05-29 03:08:22 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 170
+ERROR - 2017-05-29 03:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 170
+ERROR - 2017-05-29 03:08:22 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 180
+ERROR - 2017-05-29 03:08:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 180
+ERROR - 2017-05-29 03:10:47 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:10:47 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:10:47 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 206
+ERROR - 2017-05-29 03:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 206
+ERROR - 2017-05-29 03:10:47 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 216
+ERROR - 2017-05-29 03:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 216
+ERROR - 2017-05-29 03:12:26 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:12:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:12:26 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:12:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:12:26 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 206
+ERROR - 2017-05-29 03:12:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 206
+ERROR - 2017-05-29 03:12:26 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 216
+ERROR - 2017-05-29 03:12:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 216
+ERROR - 2017-05-29 03:13:03 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:13:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:13:03 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:13:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:13:03 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 206
+ERROR - 2017-05-29 03:13:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 206
+ERROR - 2017-05-29 03:13:03 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 216
+ERROR - 2017-05-29 03:13:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 216
+ERROR - 2017-05-29 03:14:29 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:14:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:14:29 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:14:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:14:29 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 212
+ERROR - 2017-05-29 03:14:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 212
+ERROR - 2017-05-29 03:14:29 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 222
+ERROR - 2017-05-29 03:14:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 222
+ERROR - 2017-05-29 03:14:55 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:14:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:14:55 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:14:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:14:55 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 212
+ERROR - 2017-05-29 03:14:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 212
+ERROR - 2017-05-29 03:14:55 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 222
+ERROR - 2017-05-29 03:14:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 222
+ERROR - 2017-05-29 03:15:26 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:15:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:15:26 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:15:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:15:26 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 213
+ERROR - 2017-05-29 03:15:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 213
+ERROR - 2017-05-29 03:15:26 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 223
+ERROR - 2017-05-29 03:15:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 223
+ERROR - 2017-05-29 03:17:00 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:17:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:17:00 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:17:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:17:23 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:17:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 102
+ERROR - 2017-05-29 03:17:23 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:17:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 112
+ERROR - 2017-05-29 03:27:41 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 103
+ERROR - 2017-05-29 03:27:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 103
+ERROR - 2017-05-29 03:27:41 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 113
+ERROR - 2017-05-29 03:27:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 113
+ERROR - 2017-05-29 03:27:50 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 23
+ERROR - 2017-05-29 03:27:50 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 38
+ERROR - 2017-05-29 03:27:50 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 42
+ERROR - 2017-05-29 03:27:50 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 103
+ERROR - 2017-05-29 03:27:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 103
+ERROR - 2017-05-29 03:27:50 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 113
+ERROR - 2017-05-29 03:27:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 113
+ERROR - 2017-05-29 03:28:27 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 103
+ERROR - 2017-05-29 03:28:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 103
+ERROR - 2017-05-29 03:28:27 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 113
+ERROR - 2017-05-29 03:28:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 113
+ERROR - 2017-05-29 03:42:53 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-29 03:43:28 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 103
+ERROR - 2017-05-29 03:43:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 103
+ERROR - 2017-05-29 03:43:28 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 113
+ERROR - 2017-05-29 03:43:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 113
+ERROR - 2017-05-29 03:43:29 --> 404 Page Not Found: Faviconico/index
