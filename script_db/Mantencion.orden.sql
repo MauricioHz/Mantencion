@@ -21,4 +21,4 @@ CREATE TABLE IF NOT EXISTS `mantencion_orden_trabajo` (
   `semana` varchar(5) COLLATE utf8_spanish_ci NOT NULL,
   `ciclo` int(1) NOT NULL,
   PRIMARY KEY (`id_orden`)
-) ENGINE=MyISAM  DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci AUTO_INCREMENT=43 ;
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci AUTO_INCREMENT=1 ;
