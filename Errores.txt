@@ -1,0 +1,2 @@
+Errores:
+1- al modificar datos de un equipo no se envian los datos al proceso de modificar sino que al de crear.
