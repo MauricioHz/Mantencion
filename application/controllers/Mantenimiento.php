@@ -56,7 +56,16 @@ class Mantenimiento extends MY_Controller {
     }
 
     public function correctivo() {
-        //var_dump($_POST);
+        var_dump($_POST);
+        
+        $this->input->post('ciclo');
+        $this->input->post('fecha-inicio');
+        $this->input->post('fecha-termino');        
+        $this->input->post('descripcion');
+        $this->input->post('observaciones');
+        $this->input->post('id-equipo');
+        $this->input->post('tecnico');
+        $this->input->post('supervisor');
         if ($this->input->post('ciclo') == 1) {
             
         }

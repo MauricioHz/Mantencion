@@ -124,6 +124,7 @@
                                 <div class="row">
                                     <div class="col-lg-12">
                                         <input type="hidden" name="ciclo" value="1">
+                                        <input type="hidden" name="id-equipo" value="<?php echo $equipo->id_equipo; ?>">
                                         <button type="submit" class="btn btn-success">Enviar datos orden de trabajo</button>
                                     </div>
                                 </div>
