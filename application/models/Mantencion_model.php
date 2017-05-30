@@ -25,9 +25,7 @@ class Mantencion_model extends CI_Model {
 	//Repuestos
 	public $id_repuesto;
 	public $cantidad;
-	public $repuesto;
-	public $semana;
-	
+	public $repuesto;	
 
 	public function __construct() {
 		parent::__construct();
@@ -36,10 +34,7 @@ class Mantencion_model extends CI_Model {
 
 	// Ingresar datos de la orden de trabajo
 	public function ingresar_orden_trabajo_model(Mantencion_model $objeto) {
-		$sql = "CALL sp_ot_crear_orden_trabajo(:id_orden, 
-							:id_equipo, 
-							:id_area, 
-							:id_subarea, 
+		$sql = "CALL sp_ot_crear_orden_trabajo(:id_equipo, 
 							:fecha_inicio, 
 							:fecha_termino, 
 							:tipo_mantencion, 
@@ -47,17 +42,12 @@ class Mantencion_model extends CI_Model {
 							:observacion, 
 							:tecnico, 
 							:supervisor, 
-							:usuario_registro, 
-							:fecha_registro, 
-							:estado_aprobacion, 
+							:usuario_registro,  
 							:semana, 
-							:ciclo, 
+							:ciclo
 							)";		
-		$statement = $this->db->conn_id->prepare($sql);
-		$statement->bindParam(":id_orden",$objeto->id_orden, PDO::PARAM_INT, 7);				
-		$statement->bindParam(":id_equipo",$objeto->id_equipo, PDO::PARAM_INT, 3);				
-		$statement->bindParam(":id_area",$objeto->id_area, PDO::PARAM_INT, 3);				
-		$statement->bindParam(":id_subarea",$objeto->id_subarea, PDO::PARAM_INT, 3);				
+		$statement = $this->db->conn_id->prepare($sql);				
+		$statement->bindParam(":id_equipo",$objeto->id_equipo, PDO::PARAM_INT, 3);								
 		$statement->bindParam(":fecha_inicio",$objeto->fecha_inicio,PDO::PARAM_STR, 50);				
 		$statement->bindParam(":fecha_termino",$objeto->fecha_termino,PDO::PARAM_STR, 50);				
 		$statement->bindParam(":tipo_mantencion",$objeto->tipo_mantencion,PDO::PARAM_STR, 10);				
@@ -66,8 +56,6 @@ class Mantencion_model extends CI_Model {
 		$statement->bindParam(":tecnico",$objeto->tecnico, PDO::PARAM_INT, 3);				
 		$statement->bindParam(":supervisor",$objeto->supervisor, PDO::PARAM_INT, 3);				
 		$statement->bindParam(":usuario_registro",$objeto->usuario_registro, PDO::PARAM_INT, 3);				
-		$statement->bindParam(":fecha_registro",$objeto->fecha_registro,PDO::PARAM_STR, 50);				
-		$statement->bindParam(":estado_aprobacion",$objeto->estado_aprobacion, PDO::PARAM_INT, 1);				
 		$statement->bindParam(":semana",$objeto->semana,PDO::PARAM_STR, 10);				
 		$statement->bindParam(":ciclo",$objeto->ciclo, PDO::PARAM_INT, 1);			
 		if ($statement->execute()) {

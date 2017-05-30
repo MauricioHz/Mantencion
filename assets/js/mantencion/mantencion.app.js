@@ -420,26 +420,21 @@ $(document).ready(function () {
 
     });
 
-    var urlSubArea = 'parametro/subarea_json/';
-    $('select#id-area.form-control').on('change', function () {
-        alert('test...');
-        console.info('Se ha activado el evento change de area');
+  var urlSubArea = 'subarea_json/';
+    $('select#id-area').on('change', function () {    
         var idArea = this.value;
-        console.info('url: '+urlSubArea + idArea);
         $.ajax({
             type: "GET",
             url: urlSubArea + idArea,
             contentType: "application/json",
             dataType: "json",
             success: function (data) {
-                cosole.log(data);
                 $("#id-sub-area").empty();
                 if (data !== null) {
                     $.each(data, function () {
                         $("#id-sub-area").append($("<option></option>").val(this['id_sub_area']).html(this['subarea']));
                     });
                 }
-
                 console.log('null: ' + data);
                 if (data.length === '' || data.length === 0 || data.length === false) {
                     $('#mensaje-subarea').html('<p>No existe sub-área para la área seleccionada.</p>');

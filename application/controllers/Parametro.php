@@ -252,13 +252,14 @@ class Parametro extends MY_Controller {
     // ------------------------------------------------------------------------------------------
 
     public function crear_equipo() {
+        $data['resultado_actualizar'] = FALSE;
         $data['success'] = FALSE;
         if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_SESSION['submit'] == 1) {
             $objeto = new Parametro_model();
             $objeto->id_area = $this->input->post("id-area");
             $objeto->id_subarea = $this->input->post("id-sub-area");
             $objeto->id_plan = $this->input->post("id-plan");
-            $objeto->id_tipo = $this->input->post("id-tipo");
+            $objeto->id_tipo = '0';
             $objeto->equipo = trim($this->input->post("equipo-actividad"));
             $objeto->id_responzable = $this->input->post("id-responzable");
             $objeto->observacion = trim($this->input->post("observacion"));

@@ -55,27 +55,36 @@ class Mantenimiento extends MY_Controller {
         $this->load->view('ot/index', $data);
     }
 
-    public function correctivo() {
-        var_dump($_POST);
-        
-        $this->input->post('ciclo');
-        $this->input->post('fecha-inicio');
-        $this->input->post('fecha-termino');        
-        $this->input->post('descripcion');
-        $this->input->post('observaciones');
-        $this->input->post('id-equipo');
-        $this->input->post('tecnico');
-        $this->input->post('supervisor');
-        if ($this->input->post('ciclo') == 1) {
-            
+    public function correctivo() {       
+        if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+            if ($this->input->post('ciclo') == 1) {
+                $mantencion = new Mantencion_model();
+                $mantencion->id_equipo = $this->input->post('id-equipo');
+                $mantencion->fecha_inicio = $this->input->post('fecha-inicio');
+                $mantencion->fecha_termino = $this->input->post('fecha-termino');
+                $mantencion->tipo_mantencion = 'CORRECTIVA';               
+                $mantencion->descripcion = $this->input->post('descripcion');
+                $mantencion->observacion = $this->input->post('observaciones');
+                $mantencion->tecnico = $this->input->post('tecnico');
+                $mantencion->supervisor = $this->input->post('supervisor');
+                $mantencion->usuario_registro = 'qqq';
+                $mantencion->semana = '00000';
+                $mantencion->ciclo = 1;
+                $sp = $this->mantencion_model->ingresar_orden_trabajo_model($mantencion);
+var_dump($sp);                
+                $data_sp = explode(";", $sp->mensaje);
+                $sp_mensaje = $data_sp[0];
+                if ($sp_mensaje == 'OK_INGRESADO') {
+                    $equipo = $this->parametro_model->buscar_equipo_model($id);
+                    $data = array('equipo' => $equipo, 'contenido' => 'ot/orden/correctivo');
+                }
+            }
         }
-        $id = $this->uri->segment(3);
-        
-        $equipo = $this->parametro_model->buscar_equipo_model($id);
-        $data = array(
-            'equipo' => $equipo,
-            'contenido' => 'ot/orden/correctivo'
-        );
+        if ($_SERVER['REQUEST_METHOD'] == 'GET') {
+            $id = $this->uri->segment(3);
+            $equipo = $this->parametro_model->buscar_equipo_model($id);
+            $data = array('equipo' => $equipo, 'contenido' => 'ot/orden/correctivo');
+        }
         $this->load->view('ot/index', $data);
     }
 

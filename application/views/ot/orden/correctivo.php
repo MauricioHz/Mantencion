@@ -19,7 +19,7 @@
                             <div class="panel-body">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <label class="control-label" for="sector">Equipo/actividad</label>
+                                        <label class="control-label" for="sector">Equipo</label>
                                         <p class="form-control-static"  style="color: #054e8e;"><?php echo $equipo->equipo_actividad; ?></p>
                                     </div>  
                                     <div class="col-md-3">
@@ -39,7 +39,7 @@
                                     </div>
                                     <div class="col-md-4">
                                         <label class="control-label" for="sector">Subárea</label>
-                                        <p class="form-control-static"  style="color: #054e8e;"><?php echo $equipo->area; ?></p>    
+                                        <p class="form-control-static"  style="color: #054e8e;"><?php echo $equipo->subarea; ?></p>    
                                     </div>
                                 </div>
                             </div>
@@ -100,6 +100,7 @@
                                     <div class="col-md-4 col-lg-offset-2">
                                         <label class="control-label" for="tecnico">Técnico</label>
                                         <select id="tecnico" name="tecnico" class="form-control">
+                                            <option value="1">PRUEBA_1</option>
                                             <?php foreach ($usuarios as $usuario) { ?>
                                                 <?php if ($usuario->modulo_ot == '1100' && $usuario->perfil != 'global') { ?>
                                                     <option value="<?php echo $usuario->id_usuario; ?>"><?php echo $usuario->nombre_usuario; ?></option>
@@ -110,6 +111,7 @@
                                     <div class="col-md-4">
                                         <label class="control-label" for="supervisor">Supervisor</label>
                                         <select id="supervisor" name="supervisor" class="form-control">
+                                            <option value="2">PRUEBA_2</option>
                                             <?php foreach ($usuarios as $usuario) { ?>
                                                 <?php if ($usuario->modulo_ot == '1111' && $usuario->perfil != 'global') { ?>
                                                     <option value="<?php echo $usuario->id_usuario; ?>"><?php echo $usuario->nombre_usuario; ?></option>
@@ -125,6 +127,8 @@
                                     <div class="col-lg-12">
                                         <input type="hidden" name="ciclo" value="1">
                                         <input type="hidden" name="id-equipo" value="<?php echo $equipo->id_equipo; ?>">
+                                        <input type="hidden" name="id-area" value="<?php echo $equipo->id_area; ?>">
+                                        <input type="hidden" name="id-subarea" value="<?php echo $equipo->id_sub_area; ?>">
                                         <button type="submit" class="btn btn-success">Enviar datos orden de trabajo</button>
                                     </div>
                                 </div>
