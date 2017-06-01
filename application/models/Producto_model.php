@@ -30,8 +30,19 @@ class Producto_model extends CI_Model {
         $this->load->database('pdo');
     }
 
-    public function ingresarDetalleRepuestos(Producto_model $repuesto) {
-        
+    public function buscarDetalleRepuestos($id) {        
+        return;
+    }
+  
+    public function ingresarDetalleRepuestos(Producto_model $repuesto) {        
+        return;
+    }
+  
+    public function modificarDetalleProductos(Producto_model $repuesto) {
+        return;
+    }  
+  
+    public function eliminarDetalleRepuestos($id) {        
         return;
     }
     
