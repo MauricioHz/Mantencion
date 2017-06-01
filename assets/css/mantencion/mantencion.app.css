@@ -1,0 +1,55 @@
+ #myTabsemana li.active {
+     border-top: 2px #056FCC solid;
+     border-radius: 4px 4px 0 0;
+ }
+ .dropdown-menu {
+     border: 3px solid #056FCC;
+ }
+ body {
+     min-height: 2000px;
+     padding-top: 70px;
+     /*background-color: #fafafa;*/
+     
+     background-color: #fff;
+ }
+ .navbar-default .navbar-nav>.active>a,
+ .navbar-default .navbar-nav>.active>a:focus,
+ .navbar-default .navbar-nav>.active>a:hover {
+     color: #056FCC;
+     font-weight: bold;
+     background-color: #e7e7e7;
+     border-bottom: 3px solid;
+ }
+ .navbar-default .navbar-nav>li>a {
+     color: #055da9;
+ }
+ .navbar-default .navbar-brand {
+     color: #056FCC;
+ }
+ .bs-example:after {
+     content: "ASML";
+ }
+ /*estilos github*/
+ 
+ .panel-default>.panel-heading {
+     color: #333;
+     background-color: #fafbfc;
+     border-color: #e1e4e8;
+ }
+ .shadow-nav {
+     -webkit-box-shadow: 0 8px 6px -6px #999;
+     -moz-box-shadow: 0 8px 6px -6px #999;
+     box-shadow: 0 8px 6px -6px #999;
+     /* the rest of your styling */
+ }
+ .navbar-fixed-top {
+     border-width: 0 0 0px;
+ }
+ .jumbotron#jumbotron-inicio {
+     position: relative;
+     background: rgba(192, 192, 192, 0.12) url("/assets/image/pattern_mantencion_blue2.svg") center center;
+     width: 100%;
+     height: 100%;
+     background-size: cover;
+     overflow: hidden;
+ }

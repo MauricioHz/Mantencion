@@ -1,0 +1,1 @@
+<p>No tiene permisos para ingresar a este menú.</p>

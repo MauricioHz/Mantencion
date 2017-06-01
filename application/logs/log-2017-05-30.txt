@@ -1,0 +1,501 @@
+ERROR - 2017-05-30 10:23:58 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-05-30 14:23:59 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-30 14:39:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-30 14:40:35 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 31
+ERROR - 2017-05-30 14:40:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 31
+ERROR - 2017-05-30 14:40:35 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 45
+ERROR - 2017-05-30 14:40:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 45
+ERROR - 2017-05-30 14:40:35 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 71
+ERROR - 2017-05-30 14:40:35 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 78
+ERROR - 2017-05-30 14:40:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 78
+ERROR - 2017-05-30 14:40:35 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 93
+ERROR - 2017-05-30 14:40:35 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 99
+ERROR - 2017-05-30 11:59:53 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-05-30 15:59:55 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-30 16:00:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-30 16:00:30 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 31
+ERROR - 2017-05-30 16:00:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 31
+ERROR - 2017-05-30 16:00:30 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 45
+ERROR - 2017-05-30 16:00:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 45
+ERROR - 2017-05-30 16:00:30 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 71
+ERROR - 2017-05-30 16:00:30 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 78
+ERROR - 2017-05-30 16:00:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 78
+ERROR - 2017-05-30 16:00:30 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 93
+ERROR - 2017-05-30 16:00:30 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 99
+ERROR - 2017-05-30 16:05:15 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 30
+ERROR - 2017-05-30 16:05:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 30
+ERROR - 2017-05-30 16:05:15 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 44
+ERROR - 2017-05-30 16:05:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 44
+ERROR - 2017-05-30 16:05:15 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 70
+ERROR - 2017-05-30 16:05:15 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 77
+ERROR - 2017-05-30 16:05:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 77
+ERROR - 2017-05-30 16:05:15 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 92
+ERROR - 2017-05-30 16:05:15 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 98
+ERROR - 2017-05-30 16:08:27 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:08:27 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:08:27 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:08:27 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:08:27 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:08:27 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:10:13 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:10:13 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:10:13 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:10:13 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:10:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:10:13 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:10:13 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:14:26 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:14:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:14:26 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:14:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:14:26 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:14:26 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:14:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:14:26 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:14:26 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:14:39 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:14:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:14:39 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:14:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:14:39 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:14:39 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:14:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:14:39 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:14:39 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:14:50 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:14:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:14:50 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:14:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:14:50 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:14:50 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:14:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:14:50 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:14:50 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:14:52 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:14:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:14:52 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:14:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:14:52 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:14:52 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:14:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:14:52 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:14:52 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:14:54 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:14:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:14:54 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:14:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:14:54 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:14:54 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:14:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:14:54 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:14:54 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:14:57 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:14:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:14:57 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:14:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:14:57 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:14:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:14:57 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:15:24 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:15:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:15:24 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:15:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:15:24 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:15:24 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:15:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:15:24 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:15:24 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:15:33 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:15:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:15:33 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:15:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:15:33 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:15:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:15:33 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:16:12 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:16:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:16:12 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:16:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:16:12 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:16:12 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:16:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:16:12 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:16:12 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:16:28 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:16:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:16:28 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:16:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 16:16:28 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:16:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:16:28 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:30:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-30 16:41:23 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:41:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:41:23 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:41:23 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:41:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:41:23 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:41:23 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:41:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:41:23 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:41:23 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:41:26 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:41:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:41:26 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:41:26 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:41:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:41:26 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:41:26 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:41:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:41:26 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:41:26 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:41:31 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:41:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:41:31 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:41:31 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:41:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:41:31 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:41:31 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:41:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:41:31 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:41:31 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:41:33 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:41:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:41:33 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:41:33 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:41:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:41:33 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:41:33 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:41:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:41:33 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:41:33 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:42:21 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:42:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:42:21 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:42:21 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:42:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:42:21 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:42:21 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:42:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:42:21 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:42:21 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:42:24 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:42:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:42:24 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:42:24 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:42:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:42:24 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:42:24 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:42:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:42:24 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:42:24 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:42:28 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:42:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:42:28 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:42:28 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:42:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:42:28 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:42:28 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:42:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:42:28 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:42:28 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:43:00 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:43:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:43:00 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:43:00 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:43:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:43:00 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:43:00 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:43:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:43:00 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:43:00 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:43:00 --> 404 Page Not Found: Parametro/favicon.ico
+ERROR - 2017-05-30 16:43:43 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:43:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:43:43 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:43:43 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:43:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:43:43 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:43:43 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:43:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:43:43 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:43:43 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:43:44 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:43:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:43:44 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:43:44 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:43:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:43:44 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:43:44 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:43:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:43:44 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:43:44 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:48:15 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:48:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:48:15 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:48:15 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:48:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:48:15 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:48:15 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:48:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:48:15 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:48:15 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:48:18 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:48:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:48:18 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:48:18 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:48:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:48:18 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:48:18 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:48:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:48:18 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:48:18 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:49:07 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:49:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:49:07 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:49:07 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:49:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:49:07 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:49:07 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:49:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:49:07 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:49:07 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:49:08 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:49:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:49:08 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:49:08 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:49:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:49:08 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:49:08 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:49:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:49:08 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:49:08 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:51:47 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:51:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:51:47 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:51:47 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:51:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:51:47 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:51:47 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:51:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:51:47 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:51:47 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:51:49 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:51:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:51:49 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:51:49 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:51:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:51:49 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:51:49 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:51:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:51:49 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:51:49 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:52:46 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:52:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:52:46 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:52:46 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:52:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:52:46 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:52:46 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:52:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:52:46 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:52:46 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:54:38 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:54:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:54:38 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:54:38 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:54:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:54:38 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:54:38 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:54:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:54:38 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:54:38 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:54:51 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:54:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:54:51 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:54:51 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:54:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:54:51 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:54:51 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:54:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:54:51 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:54:51 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:55:11 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:55:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:55:11 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:55:11 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:55:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:55:11 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:55:11 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:55:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:55:11 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:55:11 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:55:14 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:55:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:55:14 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:55:14 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:55:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:55:14 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:55:14 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:55:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:55:14 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:55:14 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 16:56:05 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:56:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 16:56:05 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 55
+ERROR - 2017-05-30 16:56:05 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:56:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 57
+ERROR - 2017-05-30 16:56:05 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 82
+ERROR - 2017-05-30 16:56:05 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:56:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 16:56:05 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 104
+ERROR - 2017-05-30 16:56:05 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 17:07:42 --> Severity: Notice --> Undefined property: stdClass::$id_sub_area C:\wamp\www\application\views\ot\parametro\editar_equipo.php 68
+ERROR - 2017-05-30 17:07:42 --> Severity: Notice --> Undefined property: stdClass::$subarea C:\wamp\www\application\views\ot\parametro\editar_equipo.php 68
+ERROR - 2017-05-30 17:08:14 --> Severity: Notice --> Undefined property: stdClass::$id_sub_area C:\wamp\www\application\views\ot\parametro\editar_equipo.php 68
+ERROR - 2017-05-30 17:08:14 --> Severity: Notice --> Undefined property: stdClass::$subarea C:\wamp\www\application\views\ot\parametro\editar_equipo.php 68
+ERROR - 2017-05-30 17:08:18 --> Severity: Notice --> Undefined property: stdClass::$id_sub_area C:\wamp\www\application\views\ot\parametro\editar_equipo.php 68
+ERROR - 2017-05-30 17:08:18 --> Severity: Notice --> Undefined property: stdClass::$subarea C:\wamp\www\application\views\ot\parametro\editar_equipo.php 68
+ERROR - 2017-05-30 17:08:54 --> Severity: Notice --> Undefined variable: id_sub_area C:\wamp\www\application\views\ot\parametro\editar_equipo.php 68
+ERROR - 2017-05-30 17:08:57 --> Severity: Notice --> Undefined variable: id_sub_area C:\wamp\www\application\views\ot\parametro\editar_equipo.php 68
+ERROR - 2017-05-30 17:10:42 --> Severity: Notice --> Undefined variable: id_sub_area C:\wamp\www\application\views\ot\parametro\editar_equipo.php 68
+ERROR - 2017-05-30 17:11:06 --> Severity: Notice --> Undefined variable: id_sub_area C:\wamp\www\application\views\ot\parametro\editar_equipo.php 68
+ERROR - 2017-05-30 18:04:01 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 104
+ERROR - 2017-05-30 18:04:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 104
+ERROR - 2017-05-30 18:04:01 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 115
+ERROR - 2017-05-30 18:04:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 115
+ERROR - 2017-05-30 18:04:25 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Parametro.php 323
+ERROR - 2017-05-30 18:04:25 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Parametro.php 324
+ERROR - 2017-05-30 18:04:25 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Parametro.php 325
+ERROR - 2017-05-30 18:04:25 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Parametro.php 326
+ERROR - 2017-05-30 18:04:25 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Parametro.php 327
+ERROR - 2017-05-30 18:04:25 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Parametro.php 328
+ERROR - 2017-05-30 18:04:25 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 18:04:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 18:04:25 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 18:04:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 56
+ERROR - 2017-05-30 18:04:25 --> Severity: Notice --> Undefined variable: id_sub_area C:\wamp\www\application\views\ot\parametro\editar_equipo.php 68
+ERROR - 2017-05-30 18:04:25 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 18:04:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 89
+ERROR - 2017-05-30 18:04:25 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 110
+ERROR - 2017-05-30 18:11:27 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Parametro.php 323
+ERROR - 2017-05-30 18:11:27 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Parametro.php 324
+ERROR - 2017-05-30 18:11:27 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Parametro.php 325
+ERROR - 2017-05-30 18:11:27 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Parametro.php 326
+ERROR - 2017-05-30 18:11:27 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Parametro.php 327
+ERROR - 2017-05-30 18:11:27 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Parametro.php 328
+ERROR - 2017-05-30 18:16:54 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\parametro\editar_equipo.php 26
+ERROR - 2017-05-30 18:16:54 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\parametro\editar_equipo.php 29
+ERROR - 2017-05-30 18:16:54 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\parametro\editar_equipo.php 32
+ERROR - 2017-05-30 18:16:54 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\parametro\editar_equipo.php 35
+ERROR - 2017-05-30 18:16:54 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\parametro\editar_equipo.php 38
+ERROR - 2017-05-30 18:16:54 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\parametro\editar_equipo.php 42
+ERROR - 2017-05-30 18:16:54 --> Severity: Notice --> Undefined variable: id C:\wamp\www\application\views\ot\parametro\editar_equipo.php 49
+ERROR - 2017-05-30 18:17:38 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\parametro\editar_equipo.php 27
+ERROR - 2017-05-30 18:17:38 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\parametro\editar_equipo.php 30
+ERROR - 2017-05-30 18:17:38 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\parametro\editar_equipo.php 33
+ERROR - 2017-05-30 18:17:38 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\parametro\editar_equipo.php 36
+ERROR - 2017-05-30 18:17:38 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\parametro\editar_equipo.php 39
+ERROR - 2017-05-30 18:17:38 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\parametro\editar_equipo.php 43
+ERROR - 2017-05-30 18:17:38 --> Severity: Notice --> Undefined variable: id C:\wamp\www\application\views\ot\parametro\editar_equipo.php 50
+ERROR - 2017-05-30 18:17:41 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 92
+ERROR - 2017-05-30 18:17:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 92
+ERROR - 2017-05-30 18:17:41 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 108
+ERROR - 2017-05-30 18:17:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 108
+ERROR - 2017-05-30 18:17:41 --> Severity: Notice --> Undefined variable: id_sub_area C:\wamp\www\application\views\ot\parametro\editar_equipo.php 122
+ERROR - 2017-05-30 18:17:41 --> Severity: Notice --> Undefined variable: subarea C:\wamp\www\application\views\ot\parametro\editar_equipo.php 123
+ERROR - 2017-05-30 18:17:41 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 139
+ERROR - 2017-05-30 18:17:41 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 147
+ERROR - 2017-05-30 18:17:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 147
+ERROR - 2017-05-30 18:17:41 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 164
+ERROR - 2017-05-30 18:17:41 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 171
+ERROR - 2017-05-30 18:24:33 --> Severity: Notice --> Undefined variable: planes C:\wamp\www\application\views\ot\parametro\editar_equipo.php 92
+ERROR - 2017-05-30 18:24:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 92
+ERROR - 2017-05-30 18:24:33 --> Severity: Notice --> Undefined variable: areas C:\wamp\www\application\views\ot\parametro\editar_equipo.php 108
+ERROR - 2017-05-30 18:24:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 108
+ERROR - 2017-05-30 18:24:33 --> Severity: Notice --> Undefined variable: id_sub_area C:\wamp\www\application\views\ot\parametro\editar_equipo.php 122
+ERROR - 2017-05-30 18:24:33 --> Severity: Notice --> Undefined variable: subarea C:\wamp\www\application\views\ot\parametro\editar_equipo.php 123
+ERROR - 2017-05-30 18:24:33 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 139
+ERROR - 2017-05-30 18:24:33 --> Severity: Notice --> Undefined variable: responsables C:\wamp\www\application\views\ot\parametro\editar_equipo.php 147
+ERROR - 2017-05-30 18:24:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\parametro\editar_equipo.php 147
+ERROR - 2017-05-30 18:24:33 --> Severity: Notice --> Undefined variable: observacion C:\wamp\www\application\views\ot\parametro\editar_equipo.php 164
+ERROR - 2017-05-30 18:24:33 --> Severity: Notice --> Undefined variable: id_equipo C:\wamp\www\application\views\ot\parametro\editar_equipo.php 171
+ERROR - 2017-05-30 18:33:04 --> Severity: Notice --> Undefined property: stdClass::$plan C:\wamp\www\application\views\ot\parametro\editar_equipo.php 39
+ERROR - 2017-05-30 18:33:04 --> Severity: Notice --> Undefined variable: id C:\wamp\www\application\views\ot\parametro\editar_equipo.php 50
+ERROR - 2017-05-30 18:41:59 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 104
+ERROR - 2017-05-30 18:41:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 104
+ERROR - 2017-05-30 18:41:59 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 115
+ERROR - 2017-05-30 18:41:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 115
+ERROR - 2017-05-30 18:44:46 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 104
+ERROR - 2017-05-30 18:44:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 104
+ERROR - 2017-05-30 18:44:46 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 115
+ERROR - 2017-05-30 18:44:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 115
+ERROR - 2017-05-30 18:45:57 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 153
+ERROR - 2017-05-30 18:45:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 153
+ERROR - 2017-05-30 18:45:58 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 167
+ERROR - 2017-05-30 18:45:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 167
+ERROR - 2017-05-30 18:46:16 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 165
+ERROR - 2017-05-30 18:46:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 165
+ERROR - 2017-05-30 18:46:16 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 179
+ERROR - 2017-05-30 18:46:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 179
+ERROR - 2017-05-30 18:47:59 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 162
+ERROR - 2017-05-30 18:47:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 162
+ERROR - 2017-05-30 18:47:59 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 176
+ERROR - 2017-05-30 18:47:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 176
+ERROR - 2017-05-30 18:48:26 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 162
+ERROR - 2017-05-30 18:48:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 162
+ERROR - 2017-05-30 18:48:26 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 176
+ERROR - 2017-05-30 18:48:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 176
+ERROR - 2017-05-30 18:48:48 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 155
+ERROR - 2017-05-30 18:48:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 155
+ERROR - 2017-05-30 18:48:48 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 169
+ERROR - 2017-05-30 18:48:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 169
+ERROR - 2017-05-30 18:50:28 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 185
+ERROR - 2017-05-30 18:50:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 185
+ERROR - 2017-05-30 18:50:28 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 199
+ERROR - 2017-05-30 18:50:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 199
+ERROR - 2017-05-30 18:50:58 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 185
+ERROR - 2017-05-30 18:50:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 185
+ERROR - 2017-05-30 18:50:58 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 199
+ERROR - 2017-05-30 18:50:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 199
+ERROR - 2017-05-30 18:52:40 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 147
+ERROR - 2017-05-30 18:52:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 147
+ERROR - 2017-05-30 18:52:40 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 161
+ERROR - 2017-05-30 18:52:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 161
+ERROR - 2017-05-30 18:53:54 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 153
+ERROR - 2017-05-30 18:53:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 153
+ERROR - 2017-05-30 18:53:54 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 167
+ERROR - 2017-05-30 18:53:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 167
+ERROR - 2017-05-30 18:54:23 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 153
+ERROR - 2017-05-30 18:54:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 153
+ERROR - 2017-05-30 18:54:23 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 167
+ERROR - 2017-05-30 18:54:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 167
+ERROR - 2017-05-30 18:54:51 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 153
+ERROR - 2017-05-30 18:54:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 153
+ERROR - 2017-05-30 18:54:51 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 167
+ERROR - 2017-05-30 18:54:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 167
+ERROR - 2017-05-30 18:55:13 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 153
+ERROR - 2017-05-30 18:55:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 153
+ERROR - 2017-05-30 18:55:13 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 167
+ERROR - 2017-05-30 18:55:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 167
+ERROR - 2017-05-30 18:55:43 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 153
+ERROR - 2017-05-30 18:55:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 153
+ERROR - 2017-05-30 18:55:43 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 167
+ERROR - 2017-05-30 18:55:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 167
+ERROR - 2017-05-30 18:57:41 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 153
+ERROR - 2017-05-30 18:57:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 153
+ERROR - 2017-05-30 18:57:41 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 167
+ERROR - 2017-05-30 18:57:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 167
+ERROR - 2017-05-30 20:04:38 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 157
+ERROR - 2017-05-30 20:04:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 157
+ERROR - 2017-05-30 20:04:38 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 171
+ERROR - 2017-05-30 20:04:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 171
+ERROR - 2017-05-30 20:55:31 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-05-30 22:31:30 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-05-30 22:35:51 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-05-30 22:38:18 --> MAURICIO HERNANDEZ ha iniciado sesion. ***

@@ -1,0 +1,10 @@
+ERROR - 2017-05-26 03:38:09 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-05-26 03:38:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-26 03:48:43 --> Severity: Notice --> Undefined variable: area C:\wamp\www\application\views\ot\parametro\listar_subarea.php 7
+ERROR - 2017-05-26 03:51:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-26 04:14:26 --> 404 Page Not Found: Assets/imagen
+ERROR - 2017-05-26 04:45:38 --> Severity: Notice --> Undefined variable: area C:\wamp\www\application\views\ot\parametro\eliminar_subarea.php 10
+ERROR - 2017-05-26 04:45:38 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp\www\application\views\ot\parametro\eliminar_subarea.php 11
+ERROR - 2017-05-26 04:45:38 --> Severity: Notice --> Undefined variable: fecha_registro C:\wamp\www\application\views\ot\parametro\eliminar_subarea.php 12
+ERROR - 2017-05-26 00:08:13 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-05-26 00:14:00 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
