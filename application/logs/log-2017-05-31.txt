@@ -171,3 +171,4 @@ ERROR - 2017-05-31 20:40:05 --> Severity: Notice --> Undefined variable: usuario
 ERROR - 2017-05-31 20:40:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 163
 ERROR - 2017-05-31 20:40:05 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 177
 ERROR - 2017-05-31 20:40:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 177
+ERROR - 2017-05-31 23:47:02 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
