@@ -1,0 +1,15 @@
+
+/* Puntos pendientes en el desarrollo */
+
+- Actualizar simbologia boton iconos de informacion.
+- Error al generar PDF => Message: Undefined property: stdClass::$subarea, Filename: libraries/Pdf.php, Line Number: 54
+- Cambiar formulario asistente para editar la OT, tiene la version antigua con los campos no removidos, 
+  ademas agregar boton volver al listado de OT
+- Eliminar orden de trabajo, agregar boton volver al listado de OT.
+- Lista OT => En autorizacion pendiente o aprobado no despliega PDF.
+- Al autorizar una OT, se realiza bien pero tiene el siguiente mensaje de error: 
+  Message: Trying to get property of non-object, Filename: controllers/Mantenimiento.php, Line Number: 358
+- Eliminar boton "fa fa-fire" y formulario registro de mantenciones.
+- ERRORES sucesivos, no se cargan las tablas HTML despues de varias recargas lo hace.
+- Dejar claro el flujo para crear OT de mantencion Correctiva o Preventiva.
+- Dejar claro el formulario programa semanal.
