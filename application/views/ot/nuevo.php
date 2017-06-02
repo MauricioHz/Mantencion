@@ -30,7 +30,7 @@
             <caption>Optional table caption.</caption>
             <thead>
                <tr>
-                  <th>#</th>
+                  <th><?php echo '#' . $i; ?></th>
                   <th>First Name</th>
                   <th>Last Name</th>
                   <th>Username</th>
@@ -40,9 +40,9 @@
                <?php for($i=0; $i<5; $i++){ ?>	
                <tr>
                   <th scope="row">3</th>
-                  <td>Larry</td>
-                  <td>the Bird</td>
-                  <td><button type="button" class="btn btn-primary btn-xs">Extra small button</button></td>
+                  <td>Equipo</td>
+                  <td>Actividad</td>
+                  <td><a href="<?php echo base_url('index.php/mantencion/preventiva'); ?>" class="btn btn-primary btn-xs"># Crear orden de trabajo</a></td>
                </tr>
                <?php } ?>				  
             </tbody>
