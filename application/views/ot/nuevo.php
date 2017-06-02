@@ -30,18 +30,18 @@
             <caption>Optional table caption.</caption>
             <thead>
                <tr>
-                  <th><?php echo '#' . $i; ?></th>
-                  <th>First Name</th>
-                  <th>Last Name</th>
-                  <th>Username</th>
+                  <th>#</th>
+                  <th>Equipo</th>
+                  <th>Actividad</th>
+                  <th>Acciones</th>
                </tr>
             </thead>
             <tbody>
                <?php for($i=0; $i<5; $i++){ ?>	
                <tr>
-                  <th scope="row">3</th>
-                  <td>Equipo</td>
-                  <td>Actividad</td>
+                  <th scope="row"><?php echo '#' . $i; ?></th>
+                  <td>GENERADOR GENERAL ELECTRIC X-1</td>
+                  <td>REVISAR CORREAS</td>
                   <td><a href="<?php echo base_url('index.php/mantencion/preventiva'); ?>" class="btn btn-primary btn-xs"># Crear orden de trabajo</a></td>
                </tr>
                <?php } ?>				  
