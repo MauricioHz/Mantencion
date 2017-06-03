@@ -376,12 +376,12 @@ $(document).ready(function () {
     $('#btn-agregar-respuesto').click(function () {
         if (i < 10) {
             $('#tabla-repuestos tr:last').after('<tr>' +
-            		'<td class="col-md-1"><button type="button" class="btn btn-success btn-xs eliminar-fila" id="buscar-repuesto"><i class="fa fa-search"></i></button></td>' +
-            		'<td class="col-md-1">RP001</td>' +
-            		'<td class="col-md-1">RODAMIENTO X1</td>' +
-            		'<td class="col-md-2"><input type="number" class="form-control" name="cantidad[]" maxlength="6" min="1" max="999" required></td>' +
-            		'<td class="col-md-1">4</td>' +
-            		'<td class="col-md-1">1</td>' +
+                    '<td class="col-md-1"><button type="button" class="btn btn-success btn-xs eliminar-fila" id="buscar-repuesto"><i class="fa fa-search"></i></button></td>' +
+                    '<td class="col-md-1">RP001</td>' +
+                    '<td class="col-md-1">RODAMIENTO X1</td>' +
+                    '<td class="col-md-2"><input type="number" class="form-control" name="cantidad[]" maxlength="6" min="1" max="999" required></td>' +
+                    '<td class="col-md-1">4</td>' +
+                    '<td class="col-md-1">1</td>' +
                     '<td class="col-md-4"><button type="button" class="btn btn-primary btn-sm eliminar-fila">Remover</button></td>' +
                     '</tr>');
             i = i + 1;
@@ -390,19 +390,19 @@ $(document).ready(function () {
                 var m = '<div class="alert alert-danger alert-dismissible" role="alert">' +
                         '<button type="button" class="close" data-dismiss="alert" aria-label="Close">' +
                         '<span aria-hidden="true">Ã—</span></button>' +
-                        '<strong>¡Nota!</strong> No puede ingresar mas de 10 registros. </div>';
+                        '<strong>ï¿½Nota!</strong> No puede ingresar mas de 10 registros. </div>';
                 $('#panel-repuesto').append(m);
             }
             i = i + 1;
         }
     });
-    
+
     var j = 0;
     $('#btn-agregar-respuesto-simple').click(function () {
         if (j < 10) {
             $('#tabla-repuestos-simple tr:last').after('<tr>' +
-            		'<td class="col-md-2"><input type="text" class="form-control" name="repuesto[]" maxlength="50" required></td>' +
-            		'<td class="col-md-2"><input type="number" class="form-control" name="cantidad[]" maxlength="6" min="1" max="999" required></td>' +
+                    '<td class="col-md-2"><input type="text" class="form-control" name="repuesto[]" maxlength="50" required></td>' +
+                    '<td class="col-md-2"><input type="number" class="form-control" name="cantidad[]" maxlength="6" min="1" max="999" required></td>' +
                     '<td class="col-md-4"><button type="button" class="btn btn-primary btn-sm eliminar-fila">Remover</button></td>' +
                     '</tr>');
             j = j + 1;
@@ -411,7 +411,7 @@ $(document).ready(function () {
                 var m = '<div class="alert alert-danger alert-dismissible" role="alert">' +
                         '<button type="button" class="close" data-dismiss="alert" aria-label="Close">' +
                         '<span aria-hidden="true">Ã—</span></button>' +
-                        '<strong>¡Nota!</strong> No puede ingresar mas de 10 registros. </div>';
+                        '<strong>ï¿½Nota!</strong> No puede ingresar mas de 10 registros. </div>';
                 $('#panel-repuesto-simple').append(m);
             }
             j = j + 1;
@@ -424,7 +424,7 @@ $(document).ready(function () {
     $('#tabla-repuestos-simple').on('click', '.eliminar-fila', function () {
         $(this).closest('tr').remove();
     });
-    
+
     // Validaciones antes del envio del formulario para ingresar equipo o actividad.
     $('#crear-equipo-actividad').on('submit', function (e) {
         if (document.getElementById('id-area').value === '0') {
@@ -470,11 +470,25 @@ $(document).ready(function () {
             alert('Debe completar los campos sector y elemento.');
             e.preventDefault();
         }
-
     });
+
+
 });
 
 $(function () {
+
+    $("#select-semana").change(function () {
+
+        $.getJSON(baseUrl + '/mantenimiento/programa_json/' + $(this).val(), function (data) {
+           // $("#tabla-buscar-programa-semanal tr").remove();
+            $.each(data, function (i, item) {
+                $('#tabla-buscar-programa-semanal tr:last').after(
+                        '<tr><td>' + item.id_equipo + '</td><td>' + item.equipo + '</td>' + '<td>' + item.actividad + '</td>' + '<td><a href="http://localhost/index.php/mantenimiento/preventivo/'+item.semana+'/'+item.id_equipo+'" class="btn btn-primary btn-xs"># Crear orden de trabajo</a></td></tr>'
+                        );
+            });
+        });
+    });
+
     $('#id-area').change(function () {
         console.info('URL Generada: ' + baseUrl + 'parametro/subarea_json/' + this.value);
         $.ajax({

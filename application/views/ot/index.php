@@ -53,13 +53,10 @@
                            equipos/actividad</a>
                         </li>
                         <li role="separator" class="divider"></li>
-                        <li class="dropdown-header">Orden de trabajo</li>
-                        <li>
-                            <a href="<?php echo base_url('index.php/mantenimiento/correctivo'); ?>"><img src="/assets/image/settings.svg" width="25" height="25"> Mantenimiento correctivo</a>
-                        </li>                        
-                        <li>
+                        <li class="dropdown-header">Orden de trabajo</li>                      
+                        <!--<li>
                            <a href="<?php echo base_url('index.php/mantenimiento/semana'); ?>"><i class="fa fa-thumb-tack" style="color: green;"></i> Programa semanal</a>
-                        </li>
+                        </li> -->
                         <li>
                            <a href="<?php echo base_url('index.php/mantenimiento/programasemana'); ?>"><img src="/assets/image/user.svg" width="25" height="25">  Programa semanal (test)</a>
                         </li>

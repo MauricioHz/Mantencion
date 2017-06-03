@@ -16,16 +16,16 @@ class Programa_model extends CI_Model {
     }
 
     /*
-    public function listar_plan_model() {
-        $sql = "CALL sp_ot_listar_planes;";
-        $statement = $this->db->conn_id->prepare($sql);
-        if ($statement->execute()) {
-            return $statement->fetchAll(PDO::FETCH_OBJ);
-        } else {
-            return FALSE;
-        }
-    }
-    */
+      public function listar_plan_model() {
+      $sql = "CALL sp_ot_listar_planes;";
+      $statement = $this->db->conn_id->prepare($sql);
+      if ($statement->execute()) {
+      return $statement->fetchAll(PDO::FETCH_OBJ);
+      } else {
+      return FALSE;
+      }
+      }
+     */
 
     public function crear_programa_model(Programa_model $objeto) {
         $sql = "CALL sp_ot_crear_programa_semana(:id_equipo, :id_plan, :semana, :actividad)";
@@ -62,13 +62,24 @@ class Programa_model extends CI_Model {
             return FALSE;
         }
     }
-    
-    
+
     public function buscar_semana_mantencion_model(Programa_model $objeto) {
         $sql = "CALL sp_ot_buscar_semana_mantencion(:id, :semana);";
         $statement = $this->db->conn_id->prepare($sql);
         $statement->bindParam(":id", $objeto->id_equipo, PDO::PARAM_INT, 3);
-        $statement->bindParam(":semana", $objeto->semana, PDO::PARAM_INT, 2);
+        $statement->bindParam(":semana", $objeto->semana, PDO::PARAM_STR, 5);
+        if ($statement->execute()) {
+            return $statement->fetch(PDO::FETCH_OBJ);
+        } else {
+            return FALSE;
+        }
+    }
+
+    public function buscar_programa_por_semana_equipo_model(Programa_model $objeto) {
+        $sql = "CALL sp_ot_buscar_programa_semana_equipo(:semana, :id);";
+        $statement = $this->db->conn_id->prepare($sql);
+        $statement->bindParam(":semana", $objeto->semana, PDO::PARAM_STR, 5);
+        $statement->bindParam(":id", $objeto->id_equipo, PDO::PARAM_INT, 3);        
         if ($statement->execute()) {
             return $statement->fetch(PDO::FETCH_OBJ);
         } else {
