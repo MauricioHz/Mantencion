@@ -30,7 +30,7 @@ class Producto_model extends CI_Model {
         $this->load->database('pdo');
     }
 
-    public function buscarDetalleRepuestos($id) {        
+    public function buscarDetalleRepuestosPorBodega($bodega) {        
         return;
     }
   
