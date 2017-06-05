@@ -13,7 +13,7 @@ INSERT INTO mantencion_bodega(bodega, fecha_registro) VALUES('BODEGA MAQUINA INN
 INSERT INTO mantencion_bodega(bodega, fecha_registro) VALUES('BODEGA MAQUINA SUKAMI', NOW());
 INSERT INTO mantencion_bodega(bodega, fecha_registro) VALUES('BODEGA MAQUINA INNOVA', NOW());
 
- 
+DROP PROCEDURE IF EXISTS sp_ot_crear_bodega; 
 CREATE PROCEDURE sp_ot_crear_bodega(
     IN bodegaParam varchar(80)
 )
@@ -33,6 +33,7 @@ BEGIN
     END IF;
 END
 
+DROP PROCEDURE IF EXISTS sp_ot_actualizar_bodega;
 CREATE PROCEDURE sp_ot_actualizar_bodega(IN bodegaParam varchar(80))
 BEGIN
     DECLARE cuenta INT(2);
@@ -50,15 +51,28 @@ BEGIN
     END IF;
 END
 
+DROP PROCEDURE IF EXISTS sp_ot_listar_bodega;
 CREATE PROCEDURE sp_ot_listar_bodega()
     SELECT id_bodega, bodega, fecha_registr FROM mantencion_bodega ORDER BY bodega;
 
-
-CREATE PROCEDURE sp_ot_buscar_bodega_id(
-    IN idBodegaParam int(2)
-)
+DROP PROCEDURE IF EXISTS sp_ot_buscar_bodega_id;
+DELIMITER ;;
+CREATE PROCEDURE sp_ot_buscar_bodega_id(IN idBodegaParam int(2))
 BEGIN
     SELECT id_bodega, bodega, fecha_registro
     FROM mantencion_bodega
     WHERE id_bodega = idBodegaParam;
-END
+END ;;
+
+DROP PROCEDURE IF EXISTS sp_ot_eliminar_bodega;
+DELIMITER ;;
+CREATE PROCEDURE sp_ot_eliminar_bodega(IN idBodegaParam varchar(80))
+BEGIN
+        DELETE FROM mantencion_bodega WHERE idBodegaParam = idBodegaParam;       
+        SET @id = ROW_COUNT();
+        IF @id > 0 THEN
+            SELECT 'ELIMINAR_OK';
+        ELSE
+            SELECT 'ELIMINAR_ERROR';
+        END IF;
+END ;;
