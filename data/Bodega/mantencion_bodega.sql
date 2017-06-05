@@ -4,18 +4,22 @@ DROP TABLE IF EXISTS mantencion_bodega;
 CREATE TABLE IF NOT EXISTS mantencion_bodega (
   id_bodega int(2) NOT NULL AUTO_INCREMENT,
   bodega varchar(80) COLLATE utf8_spanish_ci NOT NULL,
+  descripcion varchar(400) COLLATE utf8_spanish_ci NOT NULL,
+  id_tecnico int(3) NOT NULL,
   fecha_registro datetime NOT NULL,
   PRIMARY KEY (id_bodega)
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci AUTO_INCREMENT=1;
 
 
-INSERT INTO mantencion_bodega(bodega, fecha_registro) VALUES('BODEGA MAQUINA INNOVA', NOW());
-INSERT INTO mantencion_bodega(bodega, fecha_registro) VALUES('BODEGA MAQUINA SUKAMI', NOW());
-INSERT INTO mantencion_bodega(bodega, fecha_registro) VALUES('BODEGA MAQUINA INNOVA', NOW());
+INSERT INTO mantencion_bodega(bodega, descripcion, id_tecnico, fecha_registro) VALUES('BODEGA MAQUINA INNOVA', 'abc1', NOW());
+INSERT INTO mantencion_bodega(bodega, descripcion, id_tecnico, fecha_registro) VALUES('BODEGA MAQUINA SUKAMI', 'abc2', NOW());
+INSERT INTO mantencion_bodega(bodega, descripcion, id_tecnico, fecha_registro) VALUES('BODEGA MAQUINA INNOVA', 'abc3', NOW());
 
 DROP PROCEDURE IF EXISTS sp_ot_crear_bodega; 
 CREATE PROCEDURE sp_ot_crear_bodega(
-    IN bodegaParam varchar(80)
+    IN bodegaParam varchar(80),
+    IN descripcionParam varchar(400),
+    IN idTecnicoParam int(3)
 )
 BEGIN
     DECLARE cuenta INT(2);
@@ -23,7 +27,8 @@ BEGIN
     IF cuenta > 0 THEN
         SELECT 'REGISTRO_EXISTE';
     ELSE
-        INSERT INTO mantencion_bodega(bodega, fecha_registro) VALUES(bodegaParam, NOW());
+        INSERT INTO mantencion_bodega(bodega, descripcion, id_tecnico, fecha_registro, vigente) 
+        VALUES(bodegaParam, descripcionParam, idTecnicoParam, NOW(), TRUE);
         SET @id = LAST_INSERT_ID();
         IF @id > 0 THEN
             SELECT 'INSERTAR_OK';
