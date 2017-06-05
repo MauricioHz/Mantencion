@@ -13,7 +13,7 @@
                             <tr>
                                 <th>Area</th>
                                 <th>Acciones (Area)</th>
-                                <th>Subárea</th>
+                                <!--<th>Subárea</th>-->
                             </tr>
                         </thead>
                         <tbody>

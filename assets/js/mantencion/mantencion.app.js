@@ -480,6 +480,7 @@ $(function () {
     $("#select-semana").change(function () {
 
         $.getJSON(baseUrl + '/mantenimiento/programa_json/' + $(this).val(), function (data) {
+            console.log(data);
            // $("#tabla-buscar-programa-semanal tr").remove();
             $.each(data, function (i, item) {
                 $('#tabla-buscar-programa-semanal tr:last').after(

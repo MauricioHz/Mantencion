@@ -95,6 +95,10 @@
                         <li><a
                            href="<?php echo base_url('index.php/parametro/listar_area'); ?>">Areas</a>
                         </li>
+                        <li role="separator" class="divider"></li>
+                        <li class="dropdown-header">Bodega</li>
+                        <li><a href="<?php echo base_url('index.php/bodega/index'); ?>">Listar bodega</a></li>
+                        <li><a href="<?php echo base_url('index.php/bodega/index'); ?>">Ingresar producto a bodega</a></li>                        
                      </ul>
                   </li>
                   <li><a

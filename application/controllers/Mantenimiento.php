@@ -601,7 +601,7 @@ class Mantenimiento extends MY_Controller {
 
     public function programa_json() {
         $semana = $this->uri->segment(3);
-        $programa = $this->programa_model->listar_programa_por_semana($semana);
+        $programa = $this->programa_model->listar_programa_por_semana_model($semana);
         header('Content-Type: application/json');
         header('Access-Control-Allow-Methods: POST, GET, OPTIONS');
         echo json_encode($programa);

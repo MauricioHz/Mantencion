@@ -75,11 +75,22 @@ class Programa_model extends CI_Model {
         }
     }
 
+    public function listar_programa_por_semana_model($semana) {
+        $sql = "CALL sp_ot_buscar_semana_mantencion(:semana);";
+        $statement = $this->db->conn_id->prepare($sql);
+        $statement->bindParam(":semana", $semana, PDO::PARAM_STR, 5);
+        if ($statement->execute()) {
+            return $statement->fetchAll(PDO::FETCH_OBJ);
+        } else {
+            return FALSE;
+        }
+    }
+
     public function buscar_programa_por_semana_equipo_model(Programa_model $objeto) {
         $sql = "CALL sp_ot_buscar_programa_semana_equipo(:semana, :id);";
         $statement = $this->db->conn_id->prepare($sql);
         $statement->bindParam(":semana", $objeto->semana, PDO::PARAM_STR, 5);
-        $statement->bindParam(":id", $objeto->id_equipo, PDO::PARAM_INT, 3);        
+        $statement->bindParam(":id", $objeto->id_equipo, PDO::PARAM_INT, 3);
         if ($statement->execute()) {
             return $statement->fetch(PDO::FETCH_OBJ);
         } else {
