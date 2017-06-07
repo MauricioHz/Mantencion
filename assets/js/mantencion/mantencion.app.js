@@ -454,16 +454,6 @@ $(document).ready(function () {
     });
 
     $('#form-crear-orden').on('submit', function (e) {
-        /*
-         if(i > 0){
-         alert('valor de i es: '+i);
-         for (var i = 0; i < array.length; i++) {
-         console.log(array[i]);
-         }
-         }
-         */
-
-        // Validar principales input.
         var sector = document.getElementById('sector').value;
         var elemento = document.getElementById('elemento').value;
         if (sector === '' || sector === null || elemento === '' || elemento === null) {
@@ -471,8 +461,6 @@ $(document).ready(function () {
             e.preventDefault();
         }
     });
-
-
 });
 
 $(function () {
@@ -481,10 +469,10 @@ $(function () {
 
         $.getJSON(baseUrl + '/mantenimiento/programa_json/' + $(this).val(), function (data) {
             console.log(data);
-           // $("#tabla-buscar-programa-semanal tr").remove();
+            // $("#tabla-buscar-programa-semanal tr").remove();
             $.each(data, function (i, item) {
                 $('#tabla-buscar-programa-semanal tr:last').after(
-                        '<tr><td>' + item.id_equipo + '</td><td>' + item.equipo + '</td>' + '<td>' + item.actividad + '</td>' + '<td><a href="http://localhost/index.php/mantenimiento/preventivo/'+item.semana+'/'+item.id_equipo+'" class="btn btn-primary btn-xs"># Crear orden de trabajo</a></td></tr>'
+                        '<tr><td>' + item.id_equipo + '</td><td>' + item.equipo + '</td>' + '<td>' + item.actividad + '</td>' + '<td><a href="http://localhost/index.php/mantenimiento/preventivo/' + item.semana + '/' + item.id_equipo + '" class="btn btn-primary btn-xs"># Crear orden de trabajo</a></td></tr>'
                         );
             });
         });

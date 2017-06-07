@@ -1,0 +1,94 @@
+ERROR - 2017-06-06 00:25:23 --> Severity: Notice --> Undefined variable: bodega C:\wamp\www\application\controllers\Bodega.php 29
+ERROR - 2017-06-06 00:25:23 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 15
+ERROR - 2017-06-06 00:25:23 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 22
+ERROR - 2017-06-06 00:25:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\bodega\editar.php 30
+ERROR - 2017-06-06 01:06:33 --> Severity: Notice --> Undefined variable: bodega C:\wamp\www\application\controllers\Bodega.php 36
+ERROR - 2017-06-06 01:06:33 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 16
+ERROR - 2017-06-06 01:06:33 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 23
+ERROR - 2017-06-06 01:06:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\bodega\editar.php 31
+ERROR - 2017-06-06 01:14:53 --> Severity: Notice --> Undefined variable: bodega C:\wamp\www\application\controllers\Bodega.php 36
+ERROR - 2017-06-06 01:14:53 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 16
+ERROR - 2017-06-06 01:14:53 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 23
+ERROR - 2017-06-06 01:14:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\bodega\editar.php 31
+ERROR - 2017-06-06 01:16:00 --> Severity: Notice --> Undefined variable: bodega C:\wamp\www\application\controllers\Bodega.php 36
+ERROR - 2017-06-06 01:18:15 --> Severity: Notice --> Undefined variable: mensaje C:\wamp\www\application\controllers\Bodega.php 36
+ERROR - 2017-06-06 01:36:32 --> Severity: Notice --> Undefined property: Bodega::$id_tecnico C:\wamp\www\system\core\Model.php 77
+ERROR - 2017-06-06 01:36:32 --> Severity: Notice --> Indirect modification of overloaded property Bodega_model::$id_tecnico has no effect C:\wamp\www\application\models\Bodega_model.php 40
+ERROR - 2017-06-06 01:41:29 --> Severity: Notice --> Undefined property: Bodega::$id_tecnico C:\wamp\www\system\core\Model.php 77
+ERROR - 2017-06-06 01:41:29 --> Severity: Notice --> Indirect modification of overloaded property Bodega_model::$id_tecnico has no effect C:\wamp\www\application\models\Bodega_model.php 40
+ERROR - 2017-06-06 01:48:54 --> Severity: Notice --> Undefined variable: sp C:\wamp\www\application\controllers\Bodega.php 37
+ERROR - 2017-06-06 01:49:44 --> Severity: Notice --> Undefined variable: sp C:\wamp\www\application\controllers\Bodega.php 27
+ERROR - 2017-06-06 01:50:10 --> Severity: Notice --> Undefined variable: mensaje C:\wamp\www\application\views\ot\bodega\editar.php 1
+ERROR - 2017-06-06 01:50:10 --> Severity: Notice --> Undefined variable: mensaje C:\wamp\www\application\views\ot\bodega\editar.php 50
+ERROR - 2017-06-06 01:50:10 --> Severity: Notice --> Undefined variable: mensaje C:\wamp\www\application\views\ot\bodega\editar.php 54
+ERROR - 2017-06-06 01:50:10 --> Severity: Notice --> Undefined variable: mensaje C:\wamp\www\application\views\ot\bodega\editar.php 58
+ERROR - 2017-06-06 01:50:43 --> Severity: Notice --> Undefined variable: bodega C:\wamp\www\application\views\ot\bodega\editar.php 16
+ERROR - 2017-06-06 01:50:43 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 16
+ERROR - 2017-06-06 01:50:43 --> Severity: Notice --> Undefined variable: bodega C:\wamp\www\application\views\ot\bodega\editar.php 23
+ERROR - 2017-06-06 01:50:43 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 23
+ERROR - 2017-06-06 01:50:43 --> Severity: Notice --> Undefined variable: tecnicos C:\wamp\www\application\views\ot\bodega\editar.php 31
+ERROR - 2017-06-06 01:50:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\bodega\editar.php 31
+ERROR - 2017-06-06 02:13:38 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 16
+ERROR - 2017-06-06 02:13:38 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 23
+ERROR - 2017-06-06 02:13:38 --> Severity: Notice --> Undefined variable: tecnicos C:\wamp\www\application\views\ot\bodega\editar.php 31
+ERROR - 2017-06-06 02:13:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\bodega\editar.php 31
+ERROR - 2017-06-06 02:14:19 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 16
+ERROR - 2017-06-06 02:14:19 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 23
+ERROR - 2017-06-06 02:14:19 --> Severity: Notice --> Undefined variable: tecnicos C:\wamp\www\application\views\ot\bodega\editar.php 31
+ERROR - 2017-06-06 02:14:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\bodega\editar.php 31
+ERROR - 2017-06-06 02:15:43 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 16
+ERROR - 2017-06-06 02:15:43 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 23
+ERROR - 2017-06-06 02:15:43 --> Severity: Notice --> Undefined variable: tecnicos C:\wamp\www\application\views\ot\bodega\editar.php 31
+ERROR - 2017-06-06 02:15:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\bodega\editar.php 31
+ERROR - 2017-06-06 02:15:50 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 16
+ERROR - 2017-06-06 02:15:50 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\bodega\editar.php 23
+ERROR - 2017-06-06 02:15:50 --> Severity: Notice --> Undefined variable: tecnicos C:\wamp\www\application\views\ot\bodega\editar.php 31
+ERROR - 2017-06-06 02:15:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\bodega\editar.php 31
+ERROR - 2017-06-06 03:35:44 --> Severity: error --> Exception: Unable to locate the model you have specified: Categotia_model C:\wamp\www\system\core\Loader.php 344
+ERROR - 2017-06-06 03:36:22 --> Severity: error --> Exception: Unable to locate the model you have specified: Categotia_model C:\wamp\www\system\core\Loader.php 344
+ERROR - 2017-06-06 04:12:56 --> Severity: Notice --> Undefined variable: sp C:\wamp\www\application\controllers\Producto.php 35
+ERROR - 2017-06-06 04:12:56 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Producto.php 35
+ERROR - 2017-06-06 04:12:56 --> Severity: Error --> Call to a member function ingresarProducto() on a non-object C:\wamp\www\application\controllers\Producto.php 35
+ERROR - 2017-06-06 04:13:32 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Producto.php 36
+ERROR - 2017-06-06 04:14:13 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Producto.php 36
+ERROR - 2017-06-06 04:14:16 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Producto.php 36
+ERROR - 2017-06-06 04:15:16 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Producto.php 36
+ERROR - 2017-06-06 04:19:01 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Producto.php 36
+ERROR - 2017-06-06 04:19:11 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Producto.php 36
+ERROR - 2017-06-06 04:20:06 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Producto.php 37
+ERROR - 2017-06-06 04:22:57 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Producto.php 38
+ERROR - 2017-06-06 04:23:35 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Producto.php 39
+ERROR - 2017-06-06 04:24:09 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Producto.php 39
+ERROR - 2017-06-06 04:24:37 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\controllers\Producto.php 39
+ERROR - 2017-06-06 04:25:32 --> Severity: Notice --> Undefined property: stdClass::$mensaje C:\wamp\www\application\controllers\Producto.php 39
+ERROR - 2017-06-06 04:25:44 --> Severity: Notice --> Undefined property: stdClass::$mensaje C:\wamp\www\application\controllers\Producto.php 39
+ERROR - 2017-06-06 04:26:25 --> Severity: Notice --> Undefined property: stdClass::$mensaje C:\wamp\www\application\controllers\Producto.php 39
+ERROR - 2017-06-06 04:28:22 --> Severity: Notice --> Undefined property: stdClass::$mensaje C:\wamp\www\application\controllers\Producto.php 37
+ERROR - 2017-06-06 04:28:28 --> Severity: Notice --> Undefined variable: mensaje C:\wamp\www\application\views\ot\producto\ingresar.php 85
+ERROR - 2017-06-06 04:28:28 --> Severity: Notice --> Undefined variable: mensaje C:\wamp\www\application\views\ot\producto\ingresar.php 103
+ERROR - 2017-06-06 04:28:28 --> Severity: Notice --> Undefined variable: mensaje C:\wamp\www\application\views\ot\producto\ingresar.php 121
+ERROR - 2017-06-06 04:28:57 --> Severity: Notice --> Undefined variable: mensaje C:\wamp\www\application\views\ot\producto\ingresar.php 85
+ERROR - 2017-06-06 04:28:58 --> Severity: Notice --> Undefined variable: mensaje C:\wamp\www\application\views\ot\producto\ingresar.php 103
+ERROR - 2017-06-06 04:28:58 --> Severity: Notice --> Undefined variable: mensaje C:\wamp\www\application\views\ot\producto\ingresar.php 121
+ERROR - 2017-06-06 04:30:49 --> Severity: Notice --> Undefined property: stdClass::$mensaje C:\wamp\www\application\controllers\Producto.php 37
+ERROR - 2017-06-06 04:48:54 --> Severity: Notice --> Undefined property: stdClass::$mensaje C:\wamp\www\application\controllers\Producto.php 37
+ERROR - 2017-06-06 04:49:33 --> Severity: Notice --> Undefined property: stdClass::$mensaje C:\wamp\www\application\controllers\Producto.php 38
+ERROR - 2017-06-06 04:49:49 --> Severity: Notice --> Undefined property: stdClass::$mensaje C:\wamp\www\application\controllers\Producto.php 38
+ERROR - 2017-06-06 04:51:15 --> Severity: Notice --> Undefined property: stdClass::$mensaje C:\wamp\www\application\controllers\Producto.php 37
+ERROR - 2017-06-06 04:54:19 --> Severity: Notice --> Undefined property: stdClass::$mensaje C:\wamp\www\application\controllers\Producto.php 37
+ERROR - 2017-06-06 10:38:11 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-06-06 16:39:54 --> Severity: Notice --> Undefined variable: categoria C:\wamp\www\application\views\ot\producto\ingresar.php 1
+ERROR - 2017-06-06 16:43:17 --> Severity: Notice --> Undefined variable: categoria C:\wamp\www\application\views\ot\producto\ingresar.php 1
+ERROR - 2017-06-06 16:43:19 --> Severity: Notice --> Undefined variable: categoria C:\wamp\www\application\views\ot\producto\ingresar.php 1
+ERROR - 2017-06-06 16:44:02 --> Severity: Notice --> Undefined variable: categorias C:\wamp\www\application\views\ot\producto\ingresar.php 1
+ERROR - 2017-06-06 16:45:51 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\wamp\www\application\views\ot\producto\ingresar.php 86
+ERROR - 2017-06-06 16:52:19 --> Severity: Error --> Call to undefined method Bodega_model::listarBodega() C:\wamp\www\application\controllers\Producto.php 25
+ERROR - 2017-06-06 16:59:00 --> Severity: Error --> Call to undefined method Producto_model::buscarDetalleRepuestosPorBodega() C:\wamp\www\application\controllers\Producto.php 16
+ERROR - 2017-06-06 18:00:09 --> Severity: Notice --> Undefined variable: bodegas C:\wamp\www\application\controllers\Producto.php 17
+ERROR - 2017-06-06 18:00:52 --> Severity: Notice --> Undefined variable: bodegas C:\wamp\www\application\controllers\Producto.php 17
+ERROR - 2017-06-06 18:01:08 --> Severity: Notice --> Undefined variable: bodegas C:\wamp\www\application\controllers\Producto.php 17
+ERROR - 2017-06-06 18:11:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-06-06 18:12:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-06-06 12:48:44 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-06-06 18:48:45 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-06-06 23:18:34 --> MAURICIO HERNANDEZ ha iniciado sesion. ***

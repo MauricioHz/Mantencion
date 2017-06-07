@@ -1,8 +1,8 @@
 <?php
 
-/* 
+/*
   -- Modelo Producto corresponde a los repuestos utilizados
- 
+
   DROP TABLE IF EXISTS inventario_producto;
   CREATE TABLE IF NOT EXISTS inventario_producto (
   id_producto int(11) NOT NULL AUTO_INCREMENT,
@@ -20,30 +20,58 @@ class Producto_model extends CI_Model {
 
     public $id_producto;
     public $id_categoria;
-    public $codigo_producto;
+    public $codigo;
     public $producto;
-    public $bodega;
+    public $id_bodega;
     public $cantidad;
+    public $cantidad_minimo;
+    public $precio;
+    public $fecha_registro;
+    public $vigente;
 
     public function __construct() {
         parent::__construct();
         $this->load->database('pdo');
     }
 
-    public function buscarDetalleRepuestosPorBodega($bodega) {        
+    public function buscarProductoPorBodega($bodega) {
         return;
     }
-  
-    public function ingresarDetalleRepuestos(Producto_model $repuesto) {        
+
+    public function ingresarProducto(Producto_model $objeto) {
+        $sql = "CALL sp_ot_crear_producto(:id_categoria, :codigo, :producto, :id_bodega, :cantidad, :cantidad_minimo, :precio)";
+        $statement = $this->db->conn_id->prepare($sql);
+        $statement->bindParam(":id_categoria", $objeto->id_categoria, PDO::PARAM_INT, 3);
+        $statement->bindParam(":codigo", $objeto->codigo, PDO::PARAM_STR, 100);
+        $statement->bindParam(":producto", $objeto->producto, PDO::PARAM_STR, 100);
+        $statement->bindParam(":id_bodega", $objeto->id_bodega, PDO::PARAM_INT, 3);
+        $statement->bindParam(":cantidad", $objeto->cantidad, PDO::PARAM_INT, 11);
+        $statement->bindParam(":cantidad_minimo", $objeto->cantidad_minimo, PDO::PARAM_INT, 4);
+        $statement->bindParam(":precio", $objeto->precio, PDO::PARAM_INT, 8);
+        if ($statement->execute()) {
+            return $statement->fetch(PDO::FETCH_OBJ);
+        } else {
+            return FALSE;
+        }
+    }
+
+ public function buscarProductosPorBodega($idBodega) {
+        $sql = "CALL sp_ot_listar_producto_por_bodega(:id);";
+        $statement = $this->db->conn_id->prepare($sql);
+        $statement->bindParam(":id", $idBodega, PDO::PARAM_INT, 3);
+        if ($statement->execute()) {
+            return $statement->fetchAll(PDO::FETCH_OBJ);
+        } else {
+            return FALSE;
+        }
+    }
+
+    function modificarDetalleProductos(Producto_model $repuesto) {
         return;
     }
-  
-    public function modificarDetalleProductos(Producto_model $repuesto) {
-        return;
-    }  
-  
-    public function eliminarDetalleRepuestos($id) {        
+
+    function eliminarDetalleRepuestos($id) {
         return;
     }
-    
+
 }

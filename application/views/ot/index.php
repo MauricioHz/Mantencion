@@ -146,5 +146,6 @@
       <script src="<?php echo base_url('assets/js/jquery.dataTables.js'); ?>"></script>
       <script src="<?php echo base_url('assets/js/dataTables.bootstrap.js'); ?>"></script>
       <script src="<?php echo base_url('assets/js/mantencion/mantencion.app.js'); ?>"></script>
+      <script src="<?php echo base_url('assets/js/mantencion/mantencion.producto.js'); ?>"></script>
    </body>
 </html>
