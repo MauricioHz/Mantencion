@@ -1,0 +1,262 @@
+ERROR - 2017-06-03 04:09:47 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-06-03 05:15:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-06-03 05:25:09 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-06-03 00:02:20 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-06-03 06:07:09 --> Severity: Compile Error --> Cannot redeclare Programa_model::buscar_semana_mantencion_model() C:\wamp\www\application\models\Programa_model.php 80
+ERROR - 2017-06-03 06:11:42 --> 404 Page Not Found: Mantenimiento/listar_programa_por_semana
+ERROR - 2017-06-03 06:21:21 --> Severity: Warning --> PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined C:\wamp\www\application\models\Programa_model.php 96
+ERROR - 2017-06-03 07:37:58 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-06-03 13:37:59 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-06-03 13:38:30 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 61
+ERROR - 2017-06-03 13:38:30 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 67
+ERROR - 2017-06-03 13:38:30 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 73
+ERROR - 2017-06-03 13:38:30 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 80
+ERROR - 2017-06-03 13:38:30 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 163
+ERROR - 2017-06-03 13:38:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 163
+ERROR - 2017-06-03 13:38:30 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 177
+ERROR - 2017-06-03 13:38:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 177
+ERROR - 2017-06-03 13:38:30 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 194
+ERROR - 2017-06-03 13:38:30 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 196
+ERROR - 2017-06-03 13:38:30 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 198
+ERROR - 2017-06-03 07:43:06 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-06-03 14:03:42 --> 404 Page Not Found: Mantencion/preventiva
+ERROR - 2017-06-03 14:08:12 --> 404 Page Not Found: Mantencion/preventiva
+ERROR - 2017-06-03 14:15:12 --> 404 Page Not Found: Mantencion/preventiva
+ERROR - 2017-06-03 14:15:26 --> 404 Page Not Found: Mantencion/preventiva
+ERROR - 2017-06-03 14:15:51 --> 404 Page Not Found: Mantencion/preventiva
+ERROR - 2017-06-03 14:15:54 --> 404 Page Not Found: Mantencion/preventiva
+ERROR - 2017-06-03 14:17:12 --> Severity: Notice --> Undefined variable: id C:\wamp\www\application\controllers\Mantenimiento.php 640
+ERROR - 2017-06-03 14:17:12 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 61
+ERROR - 2017-06-03 14:17:12 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 67
+ERROR - 2017-06-03 14:17:12 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 73
+ERROR - 2017-06-03 14:17:12 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 80
+ERROR - 2017-06-03 14:17:12 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 163
+ERROR - 2017-06-03 14:17:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 163
+ERROR - 2017-06-03 14:17:12 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 177
+ERROR - 2017-06-03 14:17:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 177
+ERROR - 2017-06-03 14:17:12 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 194
+ERROR - 2017-06-03 14:17:12 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 196
+ERROR - 2017-06-03 14:17:12 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\correctivo.php 198
+ERROR - 2017-06-03 14:17:13 --> 404 Page Not Found: Mantenimiento/favicon.ico
+ERROR - 2017-06-03 14:19:50 --> Severity: Notice --> Undefined variable: id C:\wamp\www\application\controllers\Mantenimiento.php 640
+ERROR - 2017-06-03 14:19:50 --> Severity: Notice --> Undefined property: stdClass::$nombre_plan C:\wamp\www\application\views\ot\orden\preventivo.php 61
+ERROR - 2017-06-03 14:19:50 --> Severity: Notice --> Undefined property: stdClass::$area C:\wamp\www\application\views\ot\orden\preventivo.php 67
+ERROR - 2017-06-03 14:19:50 --> Severity: Notice --> Undefined property: stdClass::$subarea C:\wamp\www\application\views\ot\orden\preventivo.php 73
+ERROR - 2017-06-03 14:19:50 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 163
+ERROR - 2017-06-03 14:19:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 163
+ERROR - 2017-06-03 14:19:50 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 177
+ERROR - 2017-06-03 14:19:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 177
+ERROR - 2017-06-03 14:19:50 --> Severity: Notice --> Undefined property: stdClass::$id_sub_area C:\wamp\www\application\views\ot\orden\preventivo.php 198
+ERROR - 2017-06-03 14:19:51 --> 404 Page Not Found: Mantenimiento/favicon.ico
+ERROR - 2017-06-03 14:19:53 --> Severity: Notice --> Undefined variable: id C:\wamp\www\application\controllers\Mantenimiento.php 640
+ERROR - 2017-06-03 14:19:53 --> Severity: Notice --> Undefined property: stdClass::$nombre_plan C:\wamp\www\application\views\ot\orden\preventivo.php 61
+ERROR - 2017-06-03 14:19:53 --> Severity: Notice --> Undefined property: stdClass::$area C:\wamp\www\application\views\ot\orden\preventivo.php 67
+ERROR - 2017-06-03 14:19:53 --> Severity: Notice --> Undefined property: stdClass::$subarea C:\wamp\www\application\views\ot\orden\preventivo.php 73
+ERROR - 2017-06-03 14:19:53 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 163
+ERROR - 2017-06-03 14:19:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 163
+ERROR - 2017-06-03 14:19:53 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 177
+ERROR - 2017-06-03 14:19:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 177
+ERROR - 2017-06-03 14:19:53 --> Severity: Notice --> Undefined property: stdClass::$id_sub_area C:\wamp\www\application\views\ot\orden\preventivo.php 198
+ERROR - 2017-06-03 14:20:36 --> Severity: Notice --> Undefined variable: id C:\wamp\www\application\controllers\Mantenimiento.php 640
+ERROR - 2017-06-03 14:20:36 --> Severity: Notice --> Undefined property: stdClass::$nombre_plan C:\wamp\www\application\views\ot\orden\preventivo.php 63
+ERROR - 2017-06-03 14:20:36 --> Severity: Notice --> Undefined property: stdClass::$area C:\wamp\www\application\views\ot\orden\preventivo.php 69
+ERROR - 2017-06-03 14:20:36 --> Severity: Notice --> Undefined property: stdClass::$subarea C:\wamp\www\application\views\ot\orden\preventivo.php 75
+ERROR - 2017-06-03 14:20:36 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:20:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:20:36 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:20:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:20:36 --> Severity: Notice --> Undefined property: stdClass::$id_sub_area C:\wamp\www\application\views\ot\orden\preventivo.php 200
+ERROR - 2017-06-03 14:22:40 --> Severity: Notice --> Undefined variable: id C:\wamp\www\application\controllers\Mantenimiento.php 640
+ERROR - 2017-06-03 14:22:40 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 63
+ERROR - 2017-06-03 14:22:40 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 69
+ERROR - 2017-06-03 14:22:40 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 75
+ERROR - 2017-06-03 14:22:40 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 82
+ERROR - 2017-06-03 14:22:40 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:22:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:22:40 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:22:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:22:40 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 196
+ERROR - 2017-06-03 14:22:40 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 198
+ERROR - 2017-06-03 14:22:40 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 200
+ERROR - 2017-06-03 14:28:40 --> Severity: Notice --> Undefined variable: id C:\wamp\www\application\controllers\Mantenimiento.php 640
+ERROR - 2017-06-03 14:28:40 --> Severity: 4096 --> Object of class Programa_model could not be converted to string C:\wamp\www\application\models\Programa_model.php 82
+ERROR - 2017-06-03 14:28:40 --> Severity: Notice --> Object of class Programa_model to string conversion C:\wamp\www\application\models\Programa_model.php 82
+ERROR - 2017-06-03 14:28:40 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 63
+ERROR - 2017-06-03 14:28:40 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 69
+ERROR - 2017-06-03 14:28:40 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 75
+ERROR - 2017-06-03 14:28:40 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 82
+ERROR - 2017-06-03 14:28:40 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:28:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:28:40 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:28:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:28:40 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 196
+ERROR - 2017-06-03 14:28:40 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 198
+ERROR - 2017-06-03 14:28:40 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 200
+ERROR - 2017-06-03 14:28:48 --> Severity: Notice --> Undefined variable: id C:\wamp\www\application\controllers\Mantenimiento.php 640
+ERROR - 2017-06-03 14:28:48 --> Severity: 4096 --> Object of class Programa_model could not be converted to string C:\wamp\www\application\models\Programa_model.php 82
+ERROR - 2017-06-03 14:28:48 --> Severity: Notice --> Object of class Programa_model to string conversion C:\wamp\www\application\models\Programa_model.php 82
+ERROR - 2017-06-03 14:28:48 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 63
+ERROR - 2017-06-03 14:28:48 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 69
+ERROR - 2017-06-03 14:28:48 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 75
+ERROR - 2017-06-03 14:28:48 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 82
+ERROR - 2017-06-03 14:28:48 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:28:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:28:48 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:28:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:28:48 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 196
+ERROR - 2017-06-03 14:28:48 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 198
+ERROR - 2017-06-03 14:28:48 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 200
+ERROR - 2017-06-03 14:28:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-06-03 14:31:33 --> Severity: Notice --> Undefined variable: id C:\wamp\www\application\controllers\Mantenimiento.php 640
+ERROR - 2017-06-03 14:31:33 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 63
+ERROR - 2017-06-03 14:31:33 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 69
+ERROR - 2017-06-03 14:31:33 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 75
+ERROR - 2017-06-03 14:31:33 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 82
+ERROR - 2017-06-03 14:31:33 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:31:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:31:33 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:31:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:31:33 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 196
+ERROR - 2017-06-03 14:31:33 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 198
+ERROR - 2017-06-03 14:31:33 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 200
+ERROR - 2017-06-03 14:31:41 --> Severity: Notice --> Undefined variable: id C:\wamp\www\application\controllers\Mantenimiento.php 640
+ERROR - 2017-06-03 14:31:41 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 63
+ERROR - 2017-06-03 14:31:41 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 69
+ERROR - 2017-06-03 14:31:41 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 75
+ERROR - 2017-06-03 14:31:41 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 82
+ERROR - 2017-06-03 14:31:41 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:31:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:31:41 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:31:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:31:41 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 196
+ERROR - 2017-06-03 14:31:41 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 198
+ERROR - 2017-06-03 14:31:41 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 200
+ERROR - 2017-06-03 14:34:05 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\controllers\Mantenimiento.php 645
+ERROR - 2017-06-03 14:34:05 --> Severity: Notice --> Undefined property: stdClass::$subarea C:\wamp\www\application\views\ot\orden\preventivo.php 75
+ERROR - 2017-06-03 14:34:05 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:34:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:34:05 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:34:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:34:05 --> Severity: Notice --> Undefined property: stdClass::$id_sub_area C:\wamp\www\application\views\ot\orden\preventivo.php 200
+ERROR - 2017-06-03 14:34:58 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\controllers\Mantenimiento.php 645
+ERROR - 2017-06-03 14:34:58 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 63
+ERROR - 2017-06-03 14:34:58 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 69
+ERROR - 2017-06-03 14:34:58 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 75
+ERROR - 2017-06-03 14:34:58 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 82
+ERROR - 2017-06-03 14:34:58 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:34:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:34:58 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:34:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:34:58 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 196
+ERROR - 2017-06-03 14:34:58 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 198
+ERROR - 2017-06-03 14:34:58 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 200
+ERROR - 2017-06-03 14:34:59 --> 404 Page Not Found: Mantenimiento/favicon.ico
+ERROR - 2017-06-03 14:35:32 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\controllers\Mantenimiento.php 645
+ERROR - 2017-06-03 14:35:32 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 63
+ERROR - 2017-06-03 14:35:32 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 69
+ERROR - 2017-06-03 14:35:32 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 75
+ERROR - 2017-06-03 14:35:32 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 82
+ERROR - 2017-06-03 14:35:32 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:35:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:35:32 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:35:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:35:32 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 196
+ERROR - 2017-06-03 14:35:32 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 198
+ERROR - 2017-06-03 14:35:32 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 200
+ERROR - 2017-06-03 14:35:35 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\controllers\Mantenimiento.php 645
+ERROR - 2017-06-03 14:35:35 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 63
+ERROR - 2017-06-03 14:35:35 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 69
+ERROR - 2017-06-03 14:35:35 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 75
+ERROR - 2017-06-03 14:35:35 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 82
+ERROR - 2017-06-03 14:35:35 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:35:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:35:35 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:35:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:35:35 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 196
+ERROR - 2017-06-03 14:35:35 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 198
+ERROR - 2017-06-03 14:35:35 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 200
+ERROR - 2017-06-03 14:35:37 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\controllers\Mantenimiento.php 645
+ERROR - 2017-06-03 14:35:37 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 63
+ERROR - 2017-06-03 14:35:37 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 69
+ERROR - 2017-06-03 14:35:37 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 75
+ERROR - 2017-06-03 14:35:37 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 82
+ERROR - 2017-06-03 14:35:37 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:35:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:35:37 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:35:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:35:37 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 196
+ERROR - 2017-06-03 14:35:37 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 198
+ERROR - 2017-06-03 14:35:37 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 200
+ERROR - 2017-06-03 14:36:54 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\controllers\Mantenimiento.php 645
+ERROR - 2017-06-03 14:36:54 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 63
+ERROR - 2017-06-03 14:36:54 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 69
+ERROR - 2017-06-03 14:36:54 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 75
+ERROR - 2017-06-03 14:36:54 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 82
+ERROR - 2017-06-03 14:36:54 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:36:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:36:54 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:36:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:36:54 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 196
+ERROR - 2017-06-03 14:36:54 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 198
+ERROR - 2017-06-03 14:36:54 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 200
+ERROR - 2017-06-03 14:36:57 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\controllers\Mantenimiento.php 645
+ERROR - 2017-06-03 14:36:57 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 63
+ERROR - 2017-06-03 14:36:57 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 69
+ERROR - 2017-06-03 14:36:57 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 75
+ERROR - 2017-06-03 14:36:57 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 82
+ERROR - 2017-06-03 14:36:57 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:36:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:36:57 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:36:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:36:57 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 196
+ERROR - 2017-06-03 14:36:57 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 198
+ERROR - 2017-06-03 14:36:57 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\orden\preventivo.php 200
+ERROR - 2017-06-03 14:37:46 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\controllers\Mantenimiento.php 645
+ERROR - 2017-06-03 14:37:46 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:37:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:37:46 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:37:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:37:46 --> Severity: Notice --> Undefined property: stdClass::$id_sub_area C:\wamp\www\application\views\ot\orden\preventivo.php 200
+ERROR - 2017-06-03 14:37:47 --> 404 Page Not Found: Mantenimiento/favicon.ico
+ERROR - 2017-06-03 14:38:17 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\controllers\Mantenimiento.php 645
+ERROR - 2017-06-03 14:38:17 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:38:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 165
+ERROR - 2017-06-03 14:38:17 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:38:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 179
+ERROR - 2017-06-03 14:38:57 --> Severity: Notice --> Undefined variable: equipo C:\wamp\www\application\controllers\Mantenimiento.php 645
+ERROR - 2017-06-03 14:38:57 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 164
+ERROR - 2017-06-03 14:38:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 164
+ERROR - 2017-06-03 14:38:57 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 178
+ERROR - 2017-06-03 14:38:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 178
+ERROR - 2017-06-03 14:39:36 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 164
+ERROR - 2017-06-03 14:39:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 164
+ERROR - 2017-06-03 14:39:36 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 178
+ERROR - 2017-06-03 14:39:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 178
+ERROR - 2017-06-03 14:48:37 --> Severity: Error --> Call to undefined method Programa_model::listar_programa_por_semana() C:\wamp\www\application\controllers\Mantenimiento.php 604
+ERROR - 2017-06-03 14:48:42 --> Severity: Error --> Call to undefined method Programa_model::listar_programa_por_semana() C:\wamp\www\application\controllers\Mantenimiento.php 604
+ERROR - 2017-06-03 14:52:21 --> Severity: Error --> Call to undefined method Programa_model::listar_programa_por_semana() C:\wamp\www\application\controllers\Mantenimiento.php 604
+ERROR - 2017-06-03 14:52:43 --> Severity: 4096 --> Argument 1 passed to Programa_model::listar_programa_por_semana_model() must be an instance of Programa_model, string given, called in C:\wamp\www\application\controllers\Mantenimiento.php on line 604 and defined C:\wamp\www\application\models\Programa_model.php 78
+ERROR - 2017-06-03 14:52:43 --> Severity: Warning --> Attempt to modify property of non-object C:\wamp\www\application\models\Programa_model.php 81
+ERROR - 2017-06-03 14:52:45 --> Severity: 4096 --> Argument 1 passed to Programa_model::listar_programa_por_semana_model() must be an instance of Programa_model, string given, called in C:\wamp\www\application\controllers\Mantenimiento.php on line 604 and defined C:\wamp\www\application\models\Programa_model.php 78
+ERROR - 2017-06-03 14:52:45 --> Severity: Warning --> Attempt to modify property of non-object C:\wamp\www\application\models\Programa_model.php 81
+ERROR - 2017-06-03 14:52:49 --> Severity: 4096 --> Argument 1 passed to Programa_model::listar_programa_por_semana_model() must be an instance of Programa_model, string given, called in C:\wamp\www\application\controllers\Mantenimiento.php on line 604 and defined C:\wamp\www\application\models\Programa_model.php 78
+ERROR - 2017-06-03 14:52:49 --> Severity: Warning --> Attempt to modify property of non-object C:\wamp\www\application\models\Programa_model.php 81
+ERROR - 2017-06-03 08:54:45 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-06-03 14:54:45 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-06-03 15:01:27 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 164
+ERROR - 2017-06-03 15:01:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 164
+ERROR - 2017-06-03 15:01:27 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\preventivo.php 178
+ERROR - 2017-06-03 15:01:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\preventivo.php 178
+ERROR - 2017-06-03 15:01:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-06-03 09:48:11 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-06-03 10:02:56 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-06-03 16:10:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-06-03 16:27:28 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 163
+ERROR - 2017-06-03 16:27:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 163
+ERROR - 2017-06-03 16:27:28 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 177
+ERROR - 2017-06-03 16:27:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 177
+ERROR - 2017-06-03 16:29:44 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 163
+ERROR - 2017-06-03 16:29:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 163
+ERROR - 2017-06-03 16:29:44 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 177
+ERROR - 2017-06-03 16:29:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 177
+ERROR - 2017-06-03 17:41:54 --> MAURICIO HERNANDEZ ha iniciado sesion. ***

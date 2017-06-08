@@ -4,3 +4,4 @@ ERROR - 2017-06-01 05:50:03 --> Severity: Warning --> Invalid argument supplied 
 ERROR - 2017-06-01 05:50:03 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 177
 ERROR - 2017-06-01 05:50:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 177
 ERROR - 2017-06-01 05:50:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-06-01 22:11:33 --> MAURICIO HERNANDEZ ha iniciado sesion. ***

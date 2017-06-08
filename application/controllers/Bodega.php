@@ -33,7 +33,7 @@ class Bodega extends CI_Controller {
             $bodega->bodega = $this->input->post('bodega');
             $bodega->descripcion = $this->input->post('descripcion');
             $bodega->id_tecnico = $this->input->post('tecnico');
-            $sp = $this->bodega_model->editar_equipo_model($bodega);
+            $sp = $this->bodega_model->editar_bodega_model($bodega);
             $data = array('contenido' => 'ot/bodega/editar', 'bodega' => '', 'mensaje' => $sp->mensaje);
         }       
         $this->load->view('ot/index', $data);

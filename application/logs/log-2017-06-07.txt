@@ -1,1 +1,3 @@
 ERROR - 2017-06-07 05:18:28 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-06-07 22:15:48 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-06-07 23:44:27 --> MAURICIO HERNANDEZ ha iniciado sesion. ***

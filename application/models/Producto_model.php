@@ -66,12 +66,19 @@ class Producto_model extends CI_Model {
         }
     }
 
-    function modificarDetalleProductos(Producto_model $repuesto) {
+    function modificarProducto(Producto_model $repuesto) {
         return;
     }
 
-    function eliminarDetalleRepuestos($id) {
-        return;
+    function buscarProductosPorId($idProducto) {
+      $sql = "CALL sp_ot_buscar_producto_id(:id);";
+        $statement = $this->db->conn_id->prepare($sql);
+        $statement->bindParam(":id", $idProducto, PDO::PARAM_INT, 8);
+        if ($statement->execute()) {
+            return $statement->fetch(PDO::FETCH_OBJ);
+        } else {
+            return FALSE;
+        }
     }
 
 }

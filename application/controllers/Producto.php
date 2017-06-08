@@ -49,4 +49,26 @@ class Producto extends CI_Controller {
         }
     }
 
+    public function editar() {
+        $id = $this->uri->segment(3);
+        $data = array('contenido' => 'ot/producto/editar', 'id' => $id);
+        $this->load->view('ot/index', $data);
+    }
+
+    public function eliminar() {
+        $id = $this->uri->segment(3);
+        $repuesto = ''; 
+        if ($_SERVER['REQUEST_METHOD'] == 'GET') {
+           $producto = $this->producto_model->buscarProductosPorId($id);
+           $repuesto = $producto->producto;
+           $id = $producto->id_producto;
+        }
+        if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+            
+        }
+        
+        $data = array('contenido' => 'ot/producto/eliminar', 'id' => $id, 'success' => FALSE, 'repuesto' => $repuesto);
+        $this->load->view('ot/index', $data);
+    }
+
 }

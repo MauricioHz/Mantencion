@@ -37,7 +37,7 @@ class Bodega_model extends CI_Model {
     }
 
     // sp_ot_actualizar_bodega
-    public function editar_equipo_model(Bodega_model $objeto) {
+    public function editar_bodega_model(Bodega_model $objeto) {
         $sql = "CALL sp_ot_actualizar_bodega(:id_bodega, :bodega, :descripcion, :id_tecnico);";
         $statement = $this->db->conn_id->prepare($sql);
         $statement->bindParam(":id_bodega", $objeto->id_bodega, PDO::PARAM_INT, 3);

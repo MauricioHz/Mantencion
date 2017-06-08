@@ -16,7 +16,10 @@ $(document).ready(function () {
                 {"data": "producto", "width": "30%", "targets": 2},
                 {"data": "categoria", "width": "30%", "targets": 3},
                 {"data": "cantidad", "width": "10%", "targets": 4},
-                {"data": "id_producto", "width": "10%", "targets": 4}
+                {"data": function (row) {
+                        return '<a href="' + baseUrl + '/producto/editar/' + row.id_producto + '" class="btn btn-warning btn-xs"><i class="fa fa-pencil"></i></a> ' +
+                                ' <a href="' + baseUrl + '/producto/eliminar/' + row.id_producto + '" class="btn btn-danger btn-xs"><i class="fa fa-trash-o"></i></a>';
+                    }, "width": "10%", "targets": 4}
             ],
             "order": [
                 [1, 'asc']
