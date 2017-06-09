@@ -8,3 +8,5 @@ ERROR - 2017-06-08 05:03:47 --> 404 Page Not Found: Producto/editar
 ERROR - 2017-06-08 05:06:02 --> 404 Page Not Found: Faviconico/index
 ERROR - 2017-06-08 05:06:04 --> 404 Page Not Found: Faviconico/index
 ERROR - 2017-06-08 05:44:46 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-06-08 21:11:49 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-06-08 22:26:50 --> MAURICIO HERNANDEZ ha iniciado sesion. ***

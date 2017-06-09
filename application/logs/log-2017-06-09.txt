@@ -1,0 +1,68 @@
+ERROR - 2017-06-09 03:11:50 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-06-09 03:12:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-06-09 03:23:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-06-09 03:25:42 --> Severity: Notice --> Undefined variable: categorias C:\wamp\www\application\views\ot\producto\editar.php 20
+ERROR - 2017-06-09 03:25:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 20
+ERROR - 2017-06-09 03:25:42 --> Severity: Notice --> Undefined variable: bodegas C:\wamp\www\application\views\ot\producto\editar.php 45
+ERROR - 2017-06-09 03:25:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 45
+ERROR - 2017-06-09 03:29:25 --> Severity: Notice --> Undefined variable: categorias C:\wamp\www\application\views\ot\producto\editar.php 20
+ERROR - 2017-06-09 03:29:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 20
+ERROR - 2017-06-09 03:29:25 --> Severity: Notice --> Undefined variable: bodegas C:\wamp\www\application\views\ot\producto\editar.php 45
+ERROR - 2017-06-09 03:29:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 45
+ERROR - 2017-06-09 03:32:21 --> Severity: Notice --> Undefined variable: categorias C:\wamp\www\application\views\ot\producto\editar.php 20
+ERROR - 2017-06-09 03:32:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 20
+ERROR - 2017-06-09 03:32:21 --> Severity: Notice --> Undefined variable: bodegas C:\wamp\www\application\views\ot\producto\editar.php 45
+ERROR - 2017-06-09 03:32:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 45
+ERROR - 2017-06-09 03:32:45 --> Severity: Notice --> Undefined variable: bodegas C:\wamp\www\application\views\ot\producto\editar.php 3
+ERROR - 2017-06-09 03:32:45 --> Severity: Notice --> Undefined variable: categorias C:\wamp\www\application\views\ot\producto\editar.php 21
+ERROR - 2017-06-09 03:32:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 21
+ERROR - 2017-06-09 03:32:45 --> Severity: Notice --> Undefined variable: bodegas C:\wamp\www\application\views\ot\producto\editar.php 46
+ERROR - 2017-06-09 03:32:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 46
+ERROR - 2017-06-09 03:33:01 --> Severity: Notice --> Undefined variable: categorias C:\wamp\www\application\views\ot\producto\editar.php 21
+ERROR - 2017-06-09 03:33:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 21
+ERROR - 2017-06-09 03:33:01 --> Severity: Notice --> Undefined variable: bodegas C:\wamp\www\application\views\ot\producto\editar.php 46
+ERROR - 2017-06-09 03:33:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 46
+ERROR - 2017-06-09 03:38:48 --> Severity: Notice --> Undefined variable: producto C:\wamp\www\application\controllers\Producto.php 66
+ERROR - 2017-06-09 03:38:48 --> Severity: Notice --> Undefined variable: bodegas C:\wamp\www\application\controllers\Producto.php 66
+ERROR - 2017-06-09 03:38:48 --> Severity: Notice --> Undefined variable: categorias C:\wamp\www\application\controllers\Producto.php 66
+ERROR - 2017-06-09 03:38:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 21
+ERROR - 2017-06-09 03:38:48 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\producto\editar.php 30
+ERROR - 2017-06-09 03:38:48 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\producto\editar.php 37
+ERROR - 2017-06-09 03:38:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 46
+ERROR - 2017-06-09 03:38:48 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\producto\editar.php 57
+ERROR - 2017-06-09 03:38:48 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\producto\editar.php 67
+ERROR - 2017-06-09 03:38:48 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\producto\editar.php 77
+ERROR - 2017-06-09 03:40:43 --> Severity: Notice --> Undefined variable: producto C:\wamp\www\application\controllers\Producto.php 66
+ERROR - 2017-06-09 03:40:43 --> Severity: Notice --> Undefined variable: bodegas C:\wamp\www\application\controllers\Producto.php 66
+ERROR - 2017-06-09 03:40:43 --> Severity: Notice --> Undefined variable: categorias C:\wamp\www\application\controllers\Producto.php 66
+ERROR - 2017-06-09 03:42:00 --> Severity: Notice --> Undefined variable: producto C:\wamp\www\application\controllers\Producto.php 69
+ERROR - 2017-06-09 03:42:00 --> Severity: Notice --> Undefined variable: bodegas C:\wamp\www\application\controllers\Producto.php 69
+ERROR - 2017-06-09 03:42:00 --> Severity: Notice --> Undefined variable: categorias C:\wamp\www\application\controllers\Producto.php 69
+ERROR - 2017-06-09 03:42:04 --> Severity: Notice --> Undefined variable: producto C:\wamp\www\application\controllers\Producto.php 69
+ERROR - 2017-06-09 03:42:04 --> Severity: Notice --> Undefined variable: bodegas C:\wamp\www\application\controllers\Producto.php 69
+ERROR - 2017-06-09 03:42:04 --> Severity: Notice --> Undefined variable: categorias C:\wamp\www\application\controllers\Producto.php 69
+ERROR - 2017-06-09 03:42:25 --> Severity: Notice --> Undefined variable: bodegas C:\wamp\www\application\controllers\Producto.php 69
+ERROR - 2017-06-09 03:42:25 --> Severity: Notice --> Undefined variable: categorias C:\wamp\www\application\controllers\Producto.php 69
+ERROR - 2017-06-09 03:43:08 --> Severity: Notice --> Undefined variable: producto C:\wamp\www\application\controllers\Producto.php 64
+ERROR - 2017-06-09 03:43:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 24
+ERROR - 2017-06-09 03:43:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 49
+ERROR - 2017-06-09 03:43:13 --> Severity: Notice --> Undefined variable: producto C:\wamp\www\application\controllers\Producto.php 64
+ERROR - 2017-06-09 03:43:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 24
+ERROR - 2017-06-09 03:43:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 49
+ERROR - 2017-06-09 03:43:25 --> Severity: Notice --> Undefined variable: producto C:\wamp\www\application\controllers\Producto.php 64
+ERROR - 2017-06-09 03:43:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 24
+ERROR - 2017-06-09 03:43:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 49
+ERROR - 2017-06-09 03:43:40 --> Severity: Notice --> Undefined variable: producto C:\wamp\www\application\controllers\Producto.php 64
+ERROR - 2017-06-09 03:43:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\producto\editar.php 24
+ERROR - 2017-06-09 03:44:28 --> Severity: Notice --> Undefined variable: producto C:\wamp\www\application\controllers\Producto.php 64
+ERROR - 2017-06-09 04:58:07 --> Severity: Warning --> PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens C:\wamp\www\application\models\Producto_model.php 81
+ERROR - 2017-06-09 04:58:46 --> Severity: Notice --> Undefined variable: repuesto C:\wamp\www\application\models\Producto_model.php 70
+ERROR - 2017-06-09 04:58:46 --> Severity: Warning --> PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens C:\wamp\www\application\models\Producto_model.php 81
+ERROR - 2017-06-09 04:59:00 --> Severity: Warning --> PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens C:\wamp\www\application\models\Producto_model.php 81
+ERROR - 2017-06-09 04:59:39 --> Severity: Parsing Error --> syntax error, unexpected ';' C:\wamp\www\application\models\Producto_model.php 82
+ERROR - 2017-06-09 04:59:41 --> Severity: Parsing Error --> syntax error, unexpected ';' C:\wamp\www\application\models\Producto_model.php 82
+ERROR - 2017-06-09 05:14:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-06-09 05:14:25 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\producto\editar.php 1
+ERROR - 2017-06-09 05:14:25 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\producto\editar.php 18
+ERROR - 2017-06-09 05:14:25 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\producto\editar.php 35
+ERROR - 2017-06-09 05:14:25 --> 404 Page Not Found: Faviconico/index

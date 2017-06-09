@@ -1,6 +1,7 @@
 $(document).ready(function () {
 
     function dataProductos(data) {
+
         $('#tabla-productos').dataTable({
             "bAutoWidth": false,
             "oLanguage": {
@@ -27,7 +28,9 @@ $(document).ready(function () {
         });
         $('#loader').hide();
     }
-    $.getJSON(baseUrl + '/producto/json', function (data) {
+    var id = $('#idbodega').val();
+    $.getJSON(baseUrl + '/producto/json/' + id, function (data) {
+        console.log('id: ' + id);
         console.log(data);
         dataProductos(data);
 
