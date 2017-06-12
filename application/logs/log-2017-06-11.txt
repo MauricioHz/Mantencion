@@ -1,0 +1,14 @@
+ERROR - 2017-06-11 17:54:19 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-06-11 23:59:45 --> 404 Page Not Found: Bodega/bootstrap
+ERROR - 2017-06-11 23:59:45 --> 404 Page Not Found: Bodega/dist
+ERROR - 2017-06-11 23:59:45 --> 404 Page Not Found: Bodega/dist
+ERROR - 2017-06-11 23:59:45 --> 404 Page Not Found: Bodega/bootstrap
+ERROR - 2017-06-11 23:59:45 --> 404 Page Not Found: Bodega/plugins
+ERROR - 2017-06-11 23:59:45 --> 404 Page Not Found: Bodega/dist
+ERROR - 2017-06-11 23:59:45 --> 404 Page Not Found: Bodega/dist
+ERROR - 2017-06-11 23:59:49 --> 404 Page Not Found: Bodega/dist
+ERROR - 2017-06-11 23:59:49 --> 404 Page Not Found: Bodega/dist
+ERROR - 2017-06-11 23:59:49 --> 404 Page Not Found: Bodega/bootstrap
+ERROR - 2017-06-11 20:07:38 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-06-11 20:51:38 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
+ERROR - 2017-06-11 21:15:21 --> MAURICIO HERNANDEZ ha iniciado sesion. ***

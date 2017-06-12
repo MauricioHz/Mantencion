@@ -66,3 +66,4 @@ ERROR - 2017-06-09 05:14:25 --> Severity: Notice --> Trying to get property of n
 ERROR - 2017-06-09 05:14:25 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\producto\editar.php 18
 ERROR - 2017-06-09 05:14:25 --> Severity: Notice --> Trying to get property of non-object C:\wamp\www\application\views\ot\producto\editar.php 35
 ERROR - 2017-06-09 05:14:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-06-09 20:55:53 --> MAURICIO HERNANDEZ ha iniciado sesion. ***
