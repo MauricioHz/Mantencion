@@ -43,11 +43,11 @@
                     <label class="col-md-2 control-label" for="anio">Año</label>
                     <div class="col-md-2">
                         <select id="anio" name="anio" class="form-control">
-                            <option value="2017" <? if($data_plan->anio == '2017') { echo 'selected';} ?>>2017</option>
-                            <option value="2018" <? if($data_plan->anio == '2018') { echo 'selected';} ?>>2018</option>
-                            <option value="2019" <? if($data_plan->anio == '2019') { echo 'selected';} ?>>2019</option>
-                            <option value="2020" <? if($data_plan->anio == '2020') { echo 'selected';} ?>>2020</option>
-                            <option value="2021" <? if($data_plan->anio == '2021') { echo 'selected';} ?>>2021</option>
+                            <option value="2017" <?php echo ($data_plan->anio == '2017')? 'selected':''; ?>>2017</option>
+                            <option value="2018" <?php echo ($data_plan->anio == '2018')? 'selected':''; ?>>2018</option>
+                            <option value="2019" <?php echo ($data_plan->anio == '2019')? 'selected':''; ?>>2019</option>
+                            <option value="2020" <?php echo ($data_plan->anio == '2020')? 'selected':''; ?>>2020</option>
+                            <option value="2021" <?php echo ($data_plan->anio == '2021')? 'selected':''; ?>>2021</option>
                         </select>
                     </div>
                 </div>

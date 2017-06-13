@@ -115,7 +115,7 @@ class Plan_model extends CI_Model {
     ----------------------------------------------------------------------------
     */
     public static function obtenerPermisoAccesoPlan($usuario){
-        if($usuario == 'dromero' || $usuario == 'jlmoureb'){
+        if($usuario == 'dromero' || $usuario == 'jlmoureb' || $usuario == 'mhernandez'){
             return TRUE;
         }
     }

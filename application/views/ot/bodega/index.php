@@ -1,7 +1,7 @@
-<ol class="breadcrumb">
+<!--<ol class="breadcrumb">
     <li><a href="<?php echo base_url('index.php/mantenimiento'); ?>">Home</a></li>
     <li class="active">Bodegas materiales Maquinaría de producción</li>
-</ol>
+</ol>-->
 <div class="row">
     <div class="col-lg-10 col-lg-offset-1">
         <!--

@@ -641,7 +641,7 @@ class Mantenimiento extends MY_Controller {
             $objeto = new Programa_model();
             $objeto->semana = $semana;
             $objeto->id_equipo = $idEquipo;            
-            $programa = $this->programa_model->buscar_programa_por_semana_equipo_model($objeto);
+            $programa = $this->programa_model->buscar_programa_por_semana_equipo_model($objeto);          
             $data = array('ciclo' => '1', 'success' => FALSE, 'contenido' => 'ot/orden/preventivo', 'equipo' => $programa);
         }
         $this->load->view('ot/index', $data);

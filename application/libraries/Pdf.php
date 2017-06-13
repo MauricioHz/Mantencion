@@ -56,6 +56,9 @@ class Pdf extends FPDF {
 		$this->Cell(30, 5, 'EQUIPO: ', 'TLB', '', 'L');
 		$this->Cell(160, 5, utf8_decode($entidad->equipo_actividad), 'RTLB', '', 'L');
 		$this->Ln();
+		$this->Cell(30, 5, 'Actividad: ', 'TLB', '', 'L');
+		$this->Cell(160, 5, utf8_decode('falta dato ...'), 'RTLB', '', 'L');
+		$this->Ln();
 		$this->Ln();
 		$this->Cell(190, 3, '', '', '', '');
 		$this->Ln();

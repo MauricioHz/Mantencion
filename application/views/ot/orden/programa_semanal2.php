@@ -42,3 +42,6 @@
       </div>
    </div>
 </div>
+<script>
+alert('Falta el numero de OT en caso de haber sido realiza, no visualizar boton crear ot');
+</script>	

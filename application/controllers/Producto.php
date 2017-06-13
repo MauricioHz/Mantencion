@@ -49,7 +49,7 @@ class Producto extends CI_Controller {
             $producto->cantidad = $this->input->post('cantidad');
             $producto->precio = $this->input->post('precio');
             $producto->cantidad_minimo = $this->input->post('cantidad-minima');
-            $sp = $this->producto_model->ingresarProducto($producto);
+            $sp = $this->producto_model->ingresarProducto($producto);           
             $data = array('contenido' => 'ot/producto/ingresar', 'mensaje' => $sp->mensaje);
             $this->load->view('ot/index', $data);
         }

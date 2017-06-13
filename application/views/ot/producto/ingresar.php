@@ -89,6 +89,27 @@
 </div>
 <?php } ?>
 
+
+<?php if (!empty($mensaje)) { ?>
+
+<?php if ($mensaje == 'INSERTAR_OK') { ?>
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="panel panel-default">
+                <div class="panel-heading clearfix">
+                    <h4 class="panel-title pull-left">Mensaje</h4>
+                    <div class="btn-group pull-right">
+                        <a href="<?php echo base_url('index.php/bodega/index'); ?>" class="btn btn-primary btn-sm">Listar bodega</a>
+                    </div>
+                </div>
+                <div class="panel-body">
+                    <div class="alert alert-success" role="alert"> Datos ingresados. </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<?php } ?>
+
 <?php if ($mensaje == 'ACTUALIZAR_OK') { ?>
     <div class="row">
         <div class="col-lg-10 col-lg-offset-1">
@@ -136,13 +157,13 @@
                     </div>
                 </div>
                 <div class="panel-body">
-                    <div class="alert alert-warning" role="alert"> El nombre de bodega ya existe. </div>
+                    <div class="alert alert-warning" role="alert"> El nombre de producto y código ya existe. </div>
                 </div>
             </div>
         </div>
     </div>
 <?php } ?>
-
+<?php } ?>
 
 
 

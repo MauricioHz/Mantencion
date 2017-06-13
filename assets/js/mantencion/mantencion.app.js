@@ -466,13 +466,12 @@ $(document).ready(function () {
 $(function () {
 
     $("#select-semana").change(function () {
-
+        $('.table-row').remove();
         $.getJSON(baseUrl + '/mantenimiento/programa_json/' + $(this).val(), function (data) {
-            console.log(data);
-            // $("#tabla-buscar-programa-semanal tr").remove();
             $.each(data, function (i, item) {
                 $('#tabla-buscar-programa-semanal tr:last').after(
-                        '<tr><td>' + item.id_equipo + '</td><td>' + item.equipo + '</td>' + '<td>' + item.actividad + '</td>' + '<td><a href="http://localhost/index.php/mantenimiento/preventivo/' + item.semana + '/' + item.id_equipo + '" class="btn btn-primary btn-xs"># Crear orden de trabajo</a></td></tr>'
+                        '<tr class="table-row"><td>' + item.id_equipo + '</td><td>' + item.equipo + '</td>' + '<td>' + item.actividad + '</td>' + 
+                        '<td><a href="http://localhost/index.php/mantenimiento/preventivo/' + item.semana + '/' + item.id_equipo + '" class="btn btn-primary btn-xs"># Crear orden de trabajo</a></td></tr>'
                         );
             });
         });

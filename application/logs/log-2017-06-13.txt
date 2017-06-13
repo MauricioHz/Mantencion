@@ -1,0 +1,11 @@
+ERROR - 2017-06-13 04:58:30 --> 404 Page Not Found: Acceso/assets
+ERROR - 2017-06-13 05:18:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-06-13 05:19:12 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 163
+ERROR - 2017-06-13 05:19:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 163
+ERROR - 2017-06-13 05:19:12 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 177
+ERROR - 2017-06-13 05:19:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 177
+ERROR - 2017-06-13 05:19:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-06-13 05:19:38 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 163
+ERROR - 2017-06-13 05:19:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 163
+ERROR - 2017-06-13 05:19:38 --> Severity: Notice --> Undefined variable: usuarios C:\wamp\www\application\views\ot\orden\correctivo.php 177
+ERROR - 2017-06-13 05:19:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\application\views\ot\orden\correctivo.php 177

@@ -1,8 +1,8 @@
- <ol class="breadcrumb">
+<!--<ol class="breadcrumb">
   <li><a href="<?php echo base_url('index.php/mantenimiento');?>">Home</a></li>
   <li><a href="<?php echo base_url('index.php/bodega/index');?>">Bodegas materiales Maquinaría de producción</a></li>
   <li class="active">Listar productos</li>
-</ol>
+</ol>-->
 <input type="hidden" id="idbodega" value="<?php echo $idBodega; ?>">
 <div class="row">
     <div class="col-lg-12 col-lg-offset-0">  
