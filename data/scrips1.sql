@@ -31,3 +31,6 @@ select equipo.equipo_actividad
 from mantencion_programa_semana as semana RIGHT join mantencion_equipo_actividad as equipo
 on equipo.id_equipo = semana.id_equipo
 order by equipo.equipo_actividad;
+
+
+http://sistema.mobagricola.cl/index.php/notificacion/notificarProximaMantencion
