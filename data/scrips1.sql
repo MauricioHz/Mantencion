@@ -25,3 +25,9 @@ order by semana.semana, equipo.equipo_actividad;
 select semana, count()
 from mantencion_programa_semana
 order by semana
+
+-- equipos sin un programa de mantencion..
+select equipo.equipo_actividad
+from mantencion_programa_semana as semana RIGHT join mantencion_equipo_actividad as equipo
+on equipo.id_equipo = semana.id_equipo
+order by equipo.equipo_actividad;
